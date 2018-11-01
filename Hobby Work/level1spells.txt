@@ -1,0 +1,327 @@
+﻿Acrid Delight
+1st-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a piece of food)
+Duration: Up to 1 hour
+Classes: Bard, Druid, Wizard
+You touch a piece of food (weighing up to 5 lbs), rotting it from the inside, but maintaining its original taste, texture, appearance and smell. If the piece of food is then eaten by a creature within one hour, the creature must make a Constitution saving throw or take 2d8 poison damage and become poisoned until it completes a long rest. On a successful save the creature takes half the damage and is not poisoned. If the food is not eaten within one hour, it succumbs to its rotten nature and spoils.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each spell slot level above 1st.
+
+Alacritous Interpretation
+1st-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 hour
+Classes: Wizard
+For the duration, you gain the ability to read nonmagical texts at a rate of 50 pages per minute and have perfect recollection of any information gained during the spell’s duration.
+
+Animate Percussion
+1st-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a small cymbal or drum)
+Duration: Concentration, up to 1 hour
+Classes: Bard, Wizard
+You may touch one percussion instrument that you possess, bringing it to life under your command for the duration. The instrument can only follow basic commands, such as playing a simple beat. As a bonus action, you can mentally command the instrument you made with this spell if it is within 30 feet of you. If you issue no commands, the instrument will idly play a rhythm that it has been used to play prior to becoming animated. Once given an order, the instrument continues to follow it until its task is complete.
+
+Beguile
+1st-level enchantment
+Casting Time: 1 reaction
+Range: 120 feet
+Components: V, S
+Duration: 1 round
+Classes: Bard, Sorcerer, Warlock
+You point at a creature within range and suggest a short phrase of up to 5 words, forcing the target to make a Wisdom saving throw. On a failure, the creature is forced to shout the nearest approximation to the proffered phrase that exists in their native tongue. If the creature fails its saving throw by 5 or more, it can take no other actions during this round.
+
+Bone Storm
+1st-level conjuration
+Casting Time: 1 action
+Range: Self (15-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You conjure shards of bone to shoot forth from your hand in a 15-foot cone in front of you. Creatures in the area must make a Dexterity saving throw or take 5d4 piercing damage.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the size of the cone increases by 5 feet for each spell slot level above 1st.
+
+Cauterizing Flame
+1st-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+A creature you touch regains a number of hit points equal to 2d10 + your spellcasting ability modifier. However, the creature can no longer regain hit points by any other means until it completes a short or long rest. This spell has no effect on undead or constructs.
+At Higher Levels: The healing increases by 1d10 for each slot level above 1st.
+
+Creeping Crawling Claw
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (severed hand of a creature)
+Duration: Concentration, up to 1 hour
+Classes: Warlock, Wizard
+Choose the hand of a creature that has been severed from its body for longer than 24 hours and grant it sentience. For the duration of the spell, the creeping claw (MM pg.44) is under your control and can be commanded using your bonus action. The claw can only understand simple commands.
+If the hand's original owner is still alive, the claw will seek to reunite itself with its rightful owner when the spell ends. If its original owner is dead, the claw will wander off purposelessly.
+The claw is under your control for 1 hour, after which it stops obeying. To reassert control for another hour or to assert control over an existing crawling claw, you may cast this spell again.
+
+Cursed with Undeath
+1st-level necromancy
+Casting Time: 1 bonus action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You touch an unconscious living creature that has 0 hit points, placing a curse upon it. The curse remains until the creature either dies or is stabilized, whichever occurs first.
+If the creature dies while cursed, it is raised as a zombie under your control for 1 minute or until slain. If the creature is stabilized before it dies, the curse is removed with no ill effects.
+A remove curse spell ends either effect on a creature. This spell has no effect on undead or constructs.
+
+Death's Grasp
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+Grasping spectral hands sprout from the ground in a 10-foot square starting from a point within range. For the duration, these hands turn the ground in the area into difficult terrain.
+Creatures ending their turn in the area must succeed on a Dexterity saving throw or take 3d6 necrotic damage from the spectral hands.
+
+Detect Chaos and Order
+1st-level divination
+Casting Time: 1 action
+Range: Self (15-foot-radius sphere)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+For the duration, you are able to determine the nature of creatures within range in relation to how they conform to societal norms. Creatures will have auras about them relating to their alignment:
+• a jagged, chaotic aura for those with a tendency toward acting on their feelings and whims, regardless of society’s expectations
+• a muddled, neutral aura for those who balance their whims against the expectations of society, doing what they can within the confines of order
+• a crisp, lawful aura for those who follow the rules of society, often at the expense of their personal wishes
+
+Divine Arm
+1st-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+Your deity imbues a melee weapon you currently possess with an essence of their power and launches it at a foe within 60 feet. Make a melee spell attack against a creature you can see within range. If successful, the target takes your weapon’s normal damage plus an additional 2d10 radiant or necrotic damage (your choice). The weapon breaks after it is used in this manner.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for every 2 slot levels above 1st.
+
+Dread
+1st-level necromancy
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S, M (petrified eye of a rabbit)
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You speak an augury against a creature that you can see within range, filling them with a sense of trepidation. On a failed Wisdom saving throw, the target suffers disadvantage on all attacks against you. Also, the target has disadvantage on Wisdom skill checks made for the duration.
+A remove curse spell cast on the target ends this spell early.
+
+Earthen Grip
+1st-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Druid, Sorcerer, Wizard
+You target one creature you can see within range, causing them to make a Strength saving throw. On a failed save the target is restrained by dirt rising from the ground in the shape of a fist.
+The target may use its action to make a Strength saving throw, breaking free from the earth’s grasp on a successful save.
+
+Earthen Pillar
+1st-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Druid, Wizard
+You call forth a column of dirt to rise out of the ground in a space you can see within range. The pillar has a diameter of 5 feet, a height of up to 20 feet, an AC of 1 and 15 hit points.
+If the pillar is created under a creature, that creature must succeed on a Dexterity save or be lifted by the pillar. A creature can choose to fail the save. If a pillar is prevented from reaching its full height, a creature on the pillar takes 2d6 bludgeoning damage and is restrained. The restrained creature can use an action to make a strength or dexterity check (creature's choice) against the spell’s save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can increase the height of the pillar by 5 feet for each slot level above 1st.
+
+Grimlore’s Shadowblight
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You hurl a ball of dark energy at a target within range. Make a ranged spell attack against the target. On a hit, the target takes 2d12 necrotic damage and must make a Wisdom saving throw or become frightened of you until the end of your next turn.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for every two slot levels above 1st.
+
+Guillotine
+1st-level conjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Wizard
+You extend your hand and touch a creature while muttering the passing prayer of an executioner. The creature must make a Strength saving throw or become restrained by a pair of ethereal chains that bind the target to the ground, and a large magical blade is summoned above their head.
+As a reaction, you are able to release the blade down upon your target’s neck, dealing 2d6 force damage. For every round that you do not release the blade with your reaction, it does an additional 2d6 damage as a blade ratchets another notch higher above the target.
+The target may use their action to attempt a Strength saving throw to break the chains at the start of each turn. This removes the restrained condition and ends the spell without doing any damage.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the initial damage increases by 1d6 for each slot level above 1st.
+
+Helm’s Everwatchful Eye
+1st-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call out to the deity known as Helm and plead for the Vigilant One to use his divine grace to help one of your allies in need. You use your reaction to select one creature that you can see within range that has just failed a saving throw and roll a d20. On a roll of 16 or higher, Helm will intervene and allow the target to succeed instead.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you reduce the die score required by 2 for every slot level above 1st.
+
+Inaudible
+1st-level illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Druid, Ranger, Wizard
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or become unable to cast spells that require a verbal component from 1 school of magic for the duration.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can select one addition school of magic for each slot level above 1st.
+
+Injurious Spellbook
+1st-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (a spellbook)
+Duration: Instantaneous
+Classes: Wizard
+You transmute the two pages of your spellbook that contain the scripture for this spell to detach from the book’s binding and develop razor-sharp edges. Both pages fly out and slice a creature in range, before safely returning to your spellbook and rebinding to their original location. Choose one creature within range or choose two creatures within range that are within 5 feet of each other. For each page, a creature must make a Dexterity saving throw or take 2d8 slashing damage.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 per page (2d8 total) for every two spell slots level above 1st.
+
+Inner Fire
+1st-level evocation
+Casting Time: 1 action
+Range: 15 feet
+Components: V, S, M (a small piece of brimstone)
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+The sheer power of your life force causes the blood of your foes to ignite in an inferno. Cause a creature you can see within range to make a Constitution saving throw or take 1d4 fire damage for every unused hit dice you currently have. You lose up to 1d4 of your remaining hit dice, consumed by the spell.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for every four slot levels above 1st.
+
+Interpret Bone
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You touch a piece of bone from a creature that has been dead for less than a year and are able to see a brief vision of how that creature died.
+
+Last Breath
+1st-level conjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (dust of sneezing and choking)
+Duration: Concentration, up to 10 minutes
+Classes: Druid, Sorcerer, Wizard
+You raise your hands in a grasping gesture around a creature's neck and begin to fill their lungs with water. The target must succeed on a Constitution saving throw or take 1d8 cold damage, and on your turn(s), you can use your action to deal 1d8 cold damage to the target automatically.
+While the target is affected by the spell, it is considered to be holding its breath. The target can hold its breath for 1 + its Constitution modifier minutes (minimum of 30 seconds), then begins choking. The spell ends if you use your action to do anything else or the target drops to 0 hit points. Additionally, at the end of each of its turns, the target can make another Constitution saving throw. On a success, the spell ends on the target.
+This spell has no effect on creatures who don't need to breathe or can breathe underwater.
+
+Misery
+1st-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 round
+Classes: Bard, Cleric, Warlock, Wizard
+You extend your hand and touch a creature while muttering a curse under your breath; one that dwells in a plane of anguish. The creature can make an Intelligence saving throw to understand the effects of your incantation: they have until the start of your next turn to move 60 feet or more from your location. Upon failing to move this distance or choosing not to move, the target must immediately make a Constitution saving throw or become vulnerable to 2 damage types of your choosing for the duration. Creatures resistant or immune to a specified damage type cannot be made vulnerable to that damage type with this spell. A remove curse spell ends this effect.
+
+Murmurs of the Restless
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (burning incense)
+Duration: Instantaneous
+Classes: Bard, Cleric
+The spirits of those who have died traumatically within the last 24 hours wail out to you in anguish. You are not able to ask them any questions, but rather hear glimpses and sense the emotions from any recently slain creatures within 60 feet as they briefly relive their final moments with you.
+
+Nightowl
+1st-level conjuration (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (feather of an owl)
+Duration: 24 hours
+Classes: Druid, Ranger
+Selûne gives you her blessing, allowing you to summon the mythical spirit of an owl that appears on your shoulder. The owl cannot attack or carry any objects but understands any simple commands you give it up to a mile away. If not given any commands, the owl will remain upon your shoulder.
+As a bonus action, you are able to see and hear through the perspective of the spirit owl, but you become blinded and deafened while doing so.
+
+Rot
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You extend your hand toward a creature you can see within range and infect the target with a horrible disease, causing their flesh to form pustules and smell of decay. The creature must succeed on a Constitution saving throw or take 2d12 necrotic damage, or half on a success.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for each slot level above 1st.
+
+Shed Skin
+1st-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V
+Duration: Instantaneous
+Classes: Druid, Ranger, Wizard
+You channel the peculiarity of reptiles and gain the ability to shed your skin the same manner as a snake. If cast while you are being grappled, the condition ends, and you can move up to 15 feet away from your target without provoking any attacks of opportunity.
+
+Shield of Devotion
+1st-level abjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+A gleaming shield appears round a creature of your choice within range, causing any critical hit against them to become a normal hit. They also gain 1d8 temporary hit points for the duration.
+
+Skein of Vines
+1st-level conjuration
+Casting Time: 1 reaction
+Range: Self
+Components: V
+Duration: Instantaneous
+Classes: Druid, Ranger
+When you are unwillingly pushed or pulled in any direction, you call forth vines from the ground to wrap around your legs and keep you in place and remain until the start of your next turn. This spell can only be cast while you are on solid ground.
+
+Slashing Step
+1st-level conjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Ranger
+You enter a semi-ethereal state as you move with increased swiftness. Until the end of your turn, your movement speed increases by 15, and you may move through the spaces of enemy creatures without invoking attacks of opportunity. As part of your action, you may make a single melee attack against any creature whose space you pass through along your path, doing your normal attack damage on a hit.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+Smolder
+1st-level transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You focus on fanning the flames that burn within your soul. Using your bonus action, you are able to add an additional 1d8 fire damage to the next source of fire damage you deal.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for every slot level above 1st.
+
+Storm of Arrows
+1st-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a feather)
+Duration: Up to 10 minutes
+Classes: Ranger
+You chant a minor incantation, brushing the arrows in your quiver with a feather. Upon finishing the casting, spectral duplicates of your arrows appear at a point in the sky in range, forming a 10-foot radius cylinder up to 100 feet tall. Any creatures in the cylinder must make a Dexterity saving throw or take 3d6 piercing damage, or half damage on a failed save.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each spell slot level above 1st.
+
+Zen Archery
+1st-level divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Druid, Ranger
+You allow your insight to guide attacks made with ranged weapons. For the duration, when you make an attack with a ranged weapon, you can use your spellcasting ability modifier instead of Dexterity for all attack and damage rolls.

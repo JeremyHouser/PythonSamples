@@ -1,0 +1,164 @@
+﻿Amplify Magic
+6th-level transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Sorcerer, Wizard
+You use your bonus action to place a boon upon yourself, empowering the spells. While are under the effects of this spell, the next 3rd level spell that you cast using one of your available spell slots gains benefits as though it had been cast at 7th level.
+
+Apocalypse
+6th-level evocation
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You cause demonic symbols to appear beneath the feet of every creature you choose within range. Each creature must make a Dexterity saving throw or take 3d8 fire damage and become stunned until the end of their next turn. The creatures take half damage and are not stunned on a successful save. Creatures gain no benefit from cover for this save.
+At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
+
+Battle Beetle
+6th-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 24 hours
+Classes: Druid
+You a summon fey spirit, which takes the form of a huge beetle that appears in unoccupied space that you can see within range. The beast is considered fey, and it disappears when it drops to 0 hit points or when the spell ends. The summoned creature is friendly to you and your companions. Roll initiative for the summoned creature, which has its own turns. It obeys any verbal commands that you issue to them (no action required by you). If you don’t issue any commands, it will defend itself from hostile creatures, but otherwise take no actions. The DM has the creatures’ game statistics (stats as a Mammoth but gains 30 ft. fly speed).
+Up to 5 creatures of medium size or smaller can mount the beetle at a time, but it only responds to commands given by you.
+
+Bound into Obedience
+6th-level enchantment
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Black sapphire dust worth 100 gp, which the spell consumes)
+Duration: 10 days
+Classes: Bard, Sorcerer, Warlock, Wizard
+You touch a creature that is unconscious and cause ethereal chains to bind the creature’s hands. If the target regains consciousness, it must succeed on a Wisdom saving throw at disadvantage or become charmed by you for the duration. While bound into your servitude in this manner, the target must obey your verbal commands to the best of its ability as your servant. The target will not willingly hurt itself. If you command the target to perform an action strongly opposed by its core values, or you or your companions take an action harmful to it, your DM might allow the creature to make another Wisdom saving throw to break its shackles and end this effect.
+When the spell ends, the creature is no longer bound to you as a servant and has full knowledge of the tasks you made it perform. A Remove Curse, Greater Restoration, or Wish spell also ends it.
+
+Borrowed Time
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+You open a rift and are able to reach through to borrow idle time from your future self. Once per round for 1d6+4 rounds, you may take an additional action or bonus action at the end of another creature's turn. Acting in this manner consumes your reaction. Once the spell ends, you are incapacitated for a number of rounds equal to the initial roll of 1d6.
+
+Grace of Shar
+6th-level divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a small black disk)
+Duration: 1 hour
+Classes: Bard, Cleric, Sorcerer, Wizard
+A creature you touch is blessed with a sliver of Shar's umbral omniscience. For the duration, they gain blindsight out to a range of 30 feet.
+At Higher Levels: When you cast this spell using a 9th level spell slot, you can select one additional creature.
+
+Grimlore’s Aphotic Armor
+6th-level necromancy
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 hour
+Classes: Sorcerer, Warlock, Wizard
+You pull forth shadows that reside in the deepest corners of the realm to shroud yourself. Upon casting this spell, you gain 3d12 + 12 temporary hit points. While you have these hit points, you receive half cover from melee attacks and spells and if you take damage from any source, your attacker must make a Wisdom saving throw or become frightened of you for 1 minute.
+
+Investiture of Necrosis
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Warlock, Wizard
+Necrotic energies race across your body, shedding dim light in a 60-foot radius for the spell's duration. The necrosis doesn't harm you. Until the spell ends, you gain the following benefits:
+• You are immune to necrotic damage and resistant to poison damage.
+• Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 necrotic damage.
+• You can use your action to create a line of necrotic energy 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 necrotic damage on a failed save, or half as much damage on a successful one.
+
+Kossuth’s Mark
+6th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Sorcerer, Wizard
+You burn a fiery rune in the shape of Kossuth’s symbol into the forehead of a creature. whenever the affected target takes fire damage, it takes an extra 2d6 fire damage. Also, the target suffers disadvantage on Dexterity checks and saving throws.
+
+Lingering Vitality
+6th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Druid
+You touch one willing creature, infusing its soul with pool of restorative magics that are slowly released over time. Roll 10d8, which becomes the pool of hit points available to the target. As a reaction, the you can heal the target an amount of hit points equal to or less than those remaining in the in the pool.
+At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the pool of hit points increases by 2d8 for each slot level above 6th.
+
+Mantle of Malar
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a tuft of werewolf fur)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Druid, Sorcerer
+You adopt a spectral visage of a ravenous wolf spirit. For the duration, creatures of your choice within 30 feet of you gain advantage on attack rolls against their target if at least one of their allies is within 5 feet of that target and the ally isn't incapacitated.
+Additionally, actions you take on your turn gain special aspects as you channel Malar's bestial will. If you take the Attack action, creatures of your choice within 10 feet of you when you make the attack must make a Wisdom saving throw or be frightened of you until the end of their next turn; if you take the Dash action your jump distance is tripled; if you take the Disengage action, your movement speed increases by 10 feet; if you take the Dodge action, you gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons that aren't silvered.
+
+Myrkul’s Power
+6th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Warlock, Wizard
+You hold your hands with fingers spread, drawing forth life force into your outstretched fingertips. Each creature in a 30-foot cone must make a Constitution saving throw. A creature takes 5d6 necrotic damage on a failed save, or half as much damage on a successful one. You regain hit points equal to half of the total damage dealt.
+At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+
+Oppression
+6th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Wizard
+Each creature in a 15-foot-radius sphere centered on a point you choose must make a Wisdom save. A target takes 6d6 force damage and suffers disadvantage on saving throws vs magical effects until the start of your next turn on a failed save, or half as much damage and no disadvantage on a success.
+At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 2d6 for each slot level above 6th.
+
+Permafrost
+6th-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (a white dragon’s scale worth 500 gp)
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Wizard
+An icy chill passes over your body, giving you a better understanding of winter’s strength. For the duration, when you cast a spell that deals cold damage, you cause your target to become vulnerable to this damage type for the attack. When you cast any spells that deal cold damage to a target that is resistant to that damage type, you cause the target to lose their resistance to cold damage for the attack. When you cast any spells that deal cold damage on a target that is immune to this damage type, you cause your target to become resistant for the attack instead.
+
+Psyche Onslaught
+6th-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Wizard
+You create a 15-foot-radius sphere of thin hazy mist centered on a point you can see within range. The mist spreads around corners. It lasts for the duration or until strong wind disperses it, ending the spell. Its area is heavily obscured. Creatures in to mist's area have disadvantage on all mental (Intelligence, Wisdom, and Charisma) saving throws and skill checks.
+
+Rampart of Dispel Magic
+6th-level abjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Sorcerer, Wizard
+You create a pulsating wall of magical energy that purges magical effects from any creature that passes through it. The wall can be up to 40 feet in diameter, 40 feet high, and 5 feet thick. When you cast this spell, you cannot place it in any occupied space, and it must be placed in spaces that you can see. The wall is visible to all creatures with an Intelligence score higher than 11. Any creature that passes through the wall has any spell of 6th level or lower on them end. Spells 7th level or higher on the target are unaffected.
+At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the duration is 1 hour. If you use a spell slot of 8th level or higher, the duration is 24 hours. If you use an 9th level spell slot, the spell lasts for 1 month. Using a spell slot of 7th level or higher grants a duration that does not require Concentration.
+
+Soultap
+6th-level necromancy
+Casting Time: 1 bonus action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You embrace the life force that flows inside all living beings within range. As bonus action, you can take 1d6 necrotic damage from every creature that you choose within range. When you make your next spell attack, you can add this amount of damage to your attack.

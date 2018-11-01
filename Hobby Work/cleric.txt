@@ -1,0 +1,518 @@
+Cantrips:::
+﻿Ascending Flame
+Evocation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric
+A flame-like radiance burns a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d6 radiant damage, granting you half of the damage dealt as temporary hit points. The target gains no benefit from cover for this saving throw.
+   The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Benediction
+Abjuration cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Up to 1 minute
+Classes: Bard, Cleric
+You touch one willing creature. The target gains a +1 bonus to AC for the next attack made against it, then the spell ends. This effect can only be active on one target at a time.
+
+Bloodlink
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Sorcerer, Warlock
+You touch two willing creatures and form a brief magical link between them, causing one of the creatures that you select to lose 1d8 hit points. The other creature gains temporary hit points equal to this lost health.
+   This amount increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+Courage
+Enchantment cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid
+You touch a willing creature and strengthen its resolve. Until the end of the creature’s next turn, it cannot be frightened. If the target is currently frightened, it can immediately reroll its saving throw if one was required to avoid the condition.
+
+Dazzle
+Illusion cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: 1 round
+Classes: Bard, Cleric, Druid, Wizard
+You create a flash of blinding light directly in front of a creature that you can see within range. The target is subjected to a Charisma saving throw. On a failure, it has disadvantage on its next attack, or grants advantage on the next attack made against it, whichever comes first.
+   The target must originally be able to see in order to suffer these effects.
+
+Disarm
+Evocation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Wizard
+As an action, choose a creature you can see within 60 feet. That creature must make a Strength saving throw with advantage or drop an object or weapon they are holding in their hand. This spell has no effect if they are holding the object with two hands.
+   If they are holding two items (one in each hand), select which item they drop. If they fail the saving throw by a score of 5 or greater, the item flies out of their hand in a direction of your choosing, up to 10 feet away from their original location.
+
+Gleam
+Evocation cantrip
+Casting Time: 1 reaction
+Range: Self
+Components: S
+Duration: Instantaneous
+Classes: Bard, Cleric, Sorcerer, Wizard
+You may use your reaction to cause your physical form to emit a bright flash of light. This flash will shed bright light in a 10-foot radius and dim light for an additional 10 feet, centered on yourself.
+   Also, if you are currently being grappled by a creature, it takes 1d6 radiant damage and you may immediately attempt to escape the grapple by succeeding on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the creature’s Strength (Athletics) check.
+   The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Gloom
+Evocation cantrip
+Casting Time: 1 action
+Range: Touch (20-foot sphere)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Warlock, Wizard
+You touch one object that is 5 feet or smaller in any single dimension. Until the spell ends, the object absorbs natural light in a 20-foot radius sphere. Within that sphere, Bright Light becomes Dim Light and Dim Light becomes Dark. The spell ends if you cast it again or dismiss it as an action.
+
+Peaceful Valediction
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Wizard
+You touch a slain creature, making it immune to becoming undead for 24 hours.
+
+Renew
+Evocation cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid
+When you have at least one Hit Die remaining, you may touch a willing creature and spend a single hit die, healing your target for that amount + your Constitution modifier. A creature can only receive the benefit of this spell once per long rest.
+
+Unholy Flame
+Evocation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Warlock
+A purple flame descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 necrotic damage. The target gains no benefit from cover for this saving throw.
+   This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+1st level:::
+Cauterizing Flame
+1st-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+A creature you touch regains a number of hit points equal to 2d10 + your spellcasting ability modifier. However, the creature can no longer regain hit points by any other means until it completes a short or long rest. This spell has no effect on undead or constructs.
+   At Higher Levels: The healing increases by 1d10 for each slot level above 1st.
+
+Detect Chaos and Order
+1st-level divination
+Casting Time: 1 action
+Range: Self (15-foot-radius sphere)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+For the duration, you are able to determine the nature of creatures within range in relation to how they conform to societal norms. Creatures will have auras about them relating to their alignment:
+   • a jagged, chaotic aura for those with a tendency toward acting on their feelings and whims, regardless of society’s expectations
+   • a muddled, neutral aura for those who balance their whims against the expectations of society, doing what they can within the confines of order
+   • a crisp, lawful aura for those who follow the rules of society, often at the expense of their personal wishes
+
+Divine Arm
+1st-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+Your deity imbues a melee weapon you currently possess with an essence of their power and launches it at a foe within 60 feet. Make a melee spell attack against a creature you can see within range. If successful, the target takes your weapon’s normal damage plus an additional 2d10 radiant or necrotic damage (your choice). The weapon breaks after it is used in this manner.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for every 2 slot levels above 1st.
+
+Helm’s Everwatchful Eye
+1st-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call out to the deity known as Helm and plead for the Vigilant One to use his divine grace to help one of your allies in need. You use your reaction to select one creature that you can see within range that has just failed a saving throw and roll a d20. On a roll of 16 or higher, Helm will intervene and allow the target to succeed instead.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you reduce the die score required by 2 for every slot level above 1st.
+
+Interpret Bone
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You touch a piece of bone from a creature that has been dead for less than a year and are able to see a brief vision of how that creature died.
+
+Misery
+1st-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 round
+Classes: Bard, Cleric, Warlock, Wizard
+You extend your hand and touch a creature while muttering a curse under your breath; one that dwells in a plane of anguish. The creature can make an Intelligence saving throw to understand the effects of your incantation: they have until the start of your next turn to move 60 feet or more from your location. Upon failing to move this distance or choosing not to move, the target must immediately make a Constitution saving throw or become vulnerable to 2 damage types of your choosing for the duration. Creatures resistant or immune to a specified damage type cannot be made vulnerable to that damage type with this spell. A remove curse spell ends this effect.
+
+Murmurs of the Restless
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (burning incense)
+Duration: Instantaneous
+Classes: Bard, Cleric
+The spirits of those who have died traumatically within the last 24 hours wail out to you in anguish. You are not able to ask them any questions, but rather hear glimpses and sense the emotions from any recently slain creatures within 60 feet as they briefly relive their final moments with you.
+
+Shield of Devotion
+1st-level abjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+A gleaming shield appears round a creature of your choice within range, causing any critical hit against them to become a normal hit. They also gain 1d8 temporary hit points for the duration.
+
+Zen Archery
+1st-level divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Druid, Ranger
+You allow your insight to guide attacks made with ranged weapons. For the duration, when you make an attack with a ranged weapon, you can use your spellcasting ability modifier instead of Dexterity for all attack and damage rolls.
+
+2nd level:::
+Analyze Blood
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (1 ounce of blood)
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Ranger, Sorcerer
+You are able to learn a number of qualities from one ounce of fresh blood, as long as it has not existed outside its source for more than 24 hours. Roll a d4 and choose a number of qualities to learn from the list below, equal to the die score:
+   • Learn the creature’s type
+   • Learn the creature’s age (if applicable)
+   • Learn the creature’s gender (if applicable)
+   • Learn if the blood carries any traces of poison or disease
+   • Learn if the creature is within 20 miles of your location
+   • Learn if the creature is still on your plane of existence
+   If you cast this spell using a spell slot, in addition to the information learned above, you will also see a brief glimpse of the moment right before the creature shed blood, from the perspective.
+
+Detect Familiar
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+For the duration, you sense the presence of any creature that is currently serving as a familiar within 30 feet of you. If you sense a familiar in this way, you can use your action to see a faint aura around the creature. In addition, you are able to sense if its master is within 1 mile of your location and know their general direction.
+   The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Holy Missile
+2nd-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric
+You create three glowing darts of holy energy. Each dart hits a creature of your choice that you can see within range. Each dart heals its target for 1d4 hit points. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+Radiating Blade of Tempus
+2nd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (an amulet or holy symbol)
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Paladin
+You call upon Tempus, the god of war, to grant you the ability to strike down your foes in his name. Using your bonus action, you are able to sheathe a melee weapon you possess with a white burning flame. You can use your action to make a melee attack with the fiery blade. On a hit, the target takes the weapon’s normal attack damage plus 1d8 radiant damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+
+3rd level:::
+﻿Absorbing Ward
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin, Sorcerer, Wizard
+You use your reaction to create a protective ward that has 18 hit points. When you take any single source of damage, this ward will protect you by absorbing up to its total hit points of damage. On your next attack, you are able to release the energy force absorbed by the ward, adding the amount of damage to your next attack damage.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the ward gains 6 hit points for every slot level above 3rd.
+
+Ameliorate
+3rd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Cleric, Druid, Paladin
+A creature you can see within range gains a number of temporary hit points equal to 2d6 + your spellcasting ability modifier. This effect happens every round at the start of your turn for the duration.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the temporary hit points given increase by 1d6 for each slot level above 3rd.
+
+Invocation from Bahamut
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S, M (a dragon’s scale)
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You make a plea to the deity Bahamut, dragon god of justice, to aid an ally. Using your reaction, you allow a creature that you witness fail a saving throw to attempt another save with advantage.
+
+Mummify
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (A piece of cloth)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+You touch a creature and utter an ancient curse. The target must make a Strength saving throw or take 2d8 necrotic damage and become restrained as spectral wrappings begin to tighten around their body. Until the spell ends, as a bonus action on each of your turns after this one, you can cause the target to take an additional 2d8 necrotic damage every round after the spell was initially cast.
+   The target can attempt a Strength saving throw at the beginning of their turns to break the binding, ending the spell.
+   A creature that dies while under the effect of this spell becomes cursed. 24 hours after the creature’s death, it rises as a mummy that is hostile towards the party. A remove curse spell ends this effect on the target is cast before it is animated as a mummy but has no effect if cast on a mummy created as the result of this spell.
+
+Reshape Destiny
+3rd-level necromancy
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Paladin, Sorcerer
+You can change an outcome that the cosmic forces have foretold. As a reaction, you can allow a creature you can see within range that just failed a death saving throw to succeed instead. Additionally, future death saving throws are made with advantage until the creature is either stabilized or dies, whichever happens first.
+
+4th level:::
+﻿Army of the Dead
+4th-level necromancy
+Casting Time: 1 action
+Range: 45 feet
+Components: V, S, M (a handful of bone dust)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+This spell creates 2d4 undead servant skeletons. Choose piles of humanoid bones within range. Your spell imbues the targets with a foul mimicry of life, raising them as undead skeletons (the DM has the creature's game statistics). The skeletons act immediately after your turn on the initiative order.
+   On each of your turns, you can use a bonus action to mentally command any creatures you made with this spell if the creature is within 60 feet of you (issuing the same command to each one). You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creatures only defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+   The creatures are under your control for 1 minute, after which point the spell ends and they collapse to the ground, lifeless.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you are able to add an addition 1d4 to the total number of skeletons raised by this spell for every slot higher than 4th level.
+
+Boundary
+4th-level abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+Classes: Bard, Cleric, Wizard
+You create a small barrier of force to protect a creature you can see within range. The creature gains 25 + 1d10 worth of temporary hit points.
+
+Brook Healing
+4th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+A creature you touch regains a number of hit points equal to 8d8 + your spellcasting ability modifier. When healing a creature in this manner, you immediately take psychic damage equal to half the amount healed as psychic damage and must make a DC 15 Constitution saving throw or suffer 1 level of exhaustion.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 4th.
+
+Dusk Arrows
+4th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Wizard
+You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d8 necrotic damage. The spell’s magic ends on the piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
+   If a target dies as a result of your ranged attack while using this ammunition, its flesh melts away and it is raised as a skeleton under your control for 24 hours, after which it stops obeying any command you've given it. You may control a number of skeletons equal to your proficiency bonus at any time with this spell.
+   On each of your turns, you can use a bonus action to mentally command a skeleton raised by a dusk arrow if it is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one).
+
+Gift of Vivacity
+4th-level abjuration
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call upon your divine grace to bestow strength upon an ally at the expense of your own. Select a creature that you can see within range and grant them a number of temporary hit points equal to your maximum hit points, but you immediately take 4 levels of exhaustion.
+
+Hallowing Curse
+4th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Warlock, Wizard
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, an ill omen is placed on the target, causing disadvantage on Strength and Constitution ability checks and saving throws for the duration. While cursed, the target gains 5d10 worth of negative temporary hit points. These negative temporary hit points must be healed through before a target’s normal hit points can be healed. While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing. A remove curse spell ends this effect.
+   At Higher Levels: If you cast this spell using a spell slot of 5th level or higher, the Duration is 8 hours. If you use a spell slot of 7th level or higher, the Duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a Duration that doesn't require Concentration.
+
+Lathander’s Blessing
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Lathander, god of birth and renewal, to aid you in your quest by protecting you against being slain by your foes. For the duration, if a single attack would knock you unconscious or kill you outright, you are instead lowered to 1 hit point and may roll 4d6 and receive that many temporary hit points.
+
+Observance
+4th-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Ranger
+You heighten the senses of one of your allies. Select a creature that you can see within range and grant them advantage on all Wisdom (Perception) and Intelligence (Investigation) skill checks for the duration. Additionally, the target can attack twice, instead of once, whenever it makes an attack of opportunity using its reaction for the duration.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can select one additional creature for each slot level above 4th.
+
+Torm’s Safeguard
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Torm, god of courage, to offer you his protection. As an action on your turn, your body is coated in a white shimmering light, offering bright light for 20 feet and dim light for another 20. Additionally, you are granted 35 temporary hit points and any attack rolls you make against fiends are done with advantage for the duration. The spell ends when the temporary hit points have been used or 1-minute passes, whichever happens first.
+
+5th level:::
+﻿Armor of Bones
+5th-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a pinch of bone dust)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Druid, Warlock, Wizard
+You encase the armor of a willing creature that you can see within range in solid bone. While not impervious to degradation, this bone armor will grant the target a +3 bonus to AC for the duration.
+   Additionally, every time a creature within 5 feet lands a successful attack against the target, the attacker takes 3d6 piercing damage as bone shrapnel chips off and flies at the assailant.
+
+Ilmater’s Fortune
+5th-level divination (ritual)
+Casting Time: 1 action
+Range: 1 mile
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You focus on the suffering of all creatures around you. For the duration, you sense the health of any injured creatures within 1 mile of your current location. You learn of their creature type (although not their identity), how critically they are injured, and the nature of any ailments affecting them.
+   Additionally, all restorative spells you cast for the duration gain 2d6 additional hit points of healing and you gain advantage on any Wisdom (Medicine) checks you make.
+
+6th level:::
+Borrowed Time
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+You open a rift and are able to reach through to borrow idle time from your future self. Once per round for 1d6+4 rounds, you may take an additional action or bonus action at the end of another creature's turn. Acting in this manner consumes your reaction. Once the spell ends, you are incapacitated for a number of rounds equal to the initial roll of 1d6.
+
+Grace of Shar
+6th-level divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a small black disk)
+Duration: 1 hour
+Classes: Bard, Cleric, Sorcerer, Wizard
+A creature you touch is blessed with a sliver of Shar's umbral omniscience. For the duration, they gain blindsight out to a range of 30 feet.
+   At Higher Levels: When you cast this spell using a 9th level spell slot, you can select one additional creature.
+
+Lingering Vitality
+6th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Druid
+You touch one willing creature, infusing its soul with pool of restorative magics that are slowly released over time. Roll 10d8, which becomes the pool of hit points available to the target. As a reaction, the you can heal the target an amount of hit points equal to or less than those remaining in the in the pool.
+   At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the pool of hit points increases by 2d8 for each slot level above 6th.
+
+Mantle of Malar
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a tuft of werewolf fur)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Druid, Sorcerer
+You adopt a spectral visage of a ravenous wolf spirit. For the duration, creatures of your choice within 30 feet of you gain advantage on attack rolls against their target if at least one of their allies is within 5 feet of that target and the ally isn't incapacitated.
+   Additionally, actions you take on your turn gain special aspects as you channel Malar's bestial will. If you take the Attack action, creatures of your choice within 10 feet of you when you make the attack must make a Wisdom saving throw or be frightened of you until the end of their next turn; if you take the Dash action your jump distance is tripled; if you take the Disengage action, your movement speed increases by 10 feet; if you take the Dodge action, you gain resistance to bludgeoning, piercing, and slashing damage from non-magical weapons that aren't silvered.
+
+Myrkul’s Power
+6th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Warlock, Wizard
+You hold your hands with fingers spread, drawing forth life force into your outstretched fingertips. Each creature in a 30-foot cone must make a Constitution saving throw. A creature takes 5d6 necrotic damage on a failed save, or half as much damage on a successful one. You regain hit points equal to half of the total damage dealt.
+   At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+
+Psyche Onslaught
+6th-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Wizard
+You create a 15-foot-radius sphere of thin hazy mist centered on a point you can see within range. The mist spreads around corners. It lasts for the duration or until strong wind disperses it, ending the spell. Its area is heavily obscured. Creatures in to mist's area have disadvantage on all mental (Intelligence, Wisdom, and Charisma) saving throws and skill checks.
+
+Rampart of Dispel Magic
+6th-level abjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Sorcerer, Wizard
+You create a pulsating wall of magical energy that purges magical effects from any creature that passes through it. The wall can be up to 40 feet in diameter, 40 feet high, and 5 feet thick. When you cast this spell, you cannot place it in any occupied space, and it must be placed in spaces that you can see. The wall is visible to all creatures with an Intelligence score higher than 11. Any creature that passes through the wall has any spell of 6th level or lower on them end. Spells 7th level or higher on the target are unaffected.
+   At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the duration is 1 hour. If you use a spell slot of 8th level or higher, the duration is 24 hours. If you use an 9th level spell slot, the spell lasts for 1 month. Using a spell slot of 7th level or higher grants a duration that does not require Concentration.
+
+7th level:::
+Kelemvor’s Irradiating Beam
+7th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (holy symbol of Kelemvor)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Wizard
+You create a beam of radiant energy that burns undead creatures in a 20-foot radius cylinder up to 100 feet tall centered on a point that you can see within range. The cylinder is considered difficult terrain for undead creatures. When an undead creature enters the cylinder for the first time on a turn or starts its turn there, it must make a Constitution saving throw. On a failed save, the undead creature takes 6d10 radiant damage or half as much on a success. Incorporeal undead automatically fail the save and take maximum damage from the spell. Living creatures are unaffected by the cylinder and it is not difficult terrain for them.
+   Additionally, the cylinder sheds bright light for 60 feet from its center and dim light for another 20 feet.
+   If you're within 60 feet of the cylinder, you can move it up to 30 feet as a bonus action.
+   At Higher Levels: When you cast this spell using a spell slot of 8th level or higher, the damage increases by 1d10 for each slot level above 7th.
+
+Reveille
+7th-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a war horn)
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Wizard
+You summon warriors to fight for you and your allies with a blast through a war horn that calls them to arms. Choose between a Knight or a Veteran; the chosen creature appears within range, as well as a squad of auxiliary warriors composed of 2d4+4 Guards or Bandits, respectively.
+   The summoned warriors are friendly to you and your companions for the duration. Roll initiative for the warriors, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to the warriors, they defend themselves from hostile creatures but otherwise take no actions.
+   If your concentration is broken, the warriors don't disappear. Instead, you lose command of them, and they become neutral to you and your companions, following the command of the Knight or Veteran (as appropriate). Uncontrolled warriors can't be dismissed by you and disappear 1 hour after they are summoned. The DM has the warriors' statistics.
+   At Higher Levels: When you cast this spell using a spell slot of 8th level, the number of auxiliary warriors you may summon increases to 2d6+6. When you cast it using a spell slot of 9th level, this number increases to 2d8+8, or you may summon 12 auxiliary warriors and an additional Knight or Veteran, which must be of the same type as the initial choice.
+
+8th level:::
+Scornful Mantle of the Undaunted
+8th-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a ruby worth 1,000 gp)
+Duration: Up to 1 minute
+Classes: Bard, Cleric
+You touch a willing creature and strengthen its resolve, allowing it to become dauntless in the face of untold danger. For the duration, the target becomes immune to all condition effects. If the target is currently affected with any condition other than unconscious or exhaustion, casting this spell will remove those conditions from the target. Additionally, if a single source of damage would kill the target, the target health is set to 1 hit point instead, and the spell ends.
+
+9th level:::
+Tamara’s Rebirth
+9th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (diamonds worth at least 10,000 gp, which the spell consumes)
+Duration: Up to 24 hours
+Classes: Bard, Cleric, Druid
+You touch a willing creature that has 1 or more hit points, infusing it with a blessing from Tamara, dragon goddess of life, light and mercy. If the target dies during the duration, for any reason except old age, the blessing is triggered. If its soul is free and willing, the target returns to life at the start of its next turn with hit points equal to half its hit point maximum. As a bonus action on the same turn, the target can expend as many of its hit dice as it chooses to heal itself. Roll each die spent, adding your Constitution modifier to each, and regain a number of hit points equal to the total.
+   This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs.
+   The spell can even provide a new body if the original no longer exists. The target then appears in an unoccupied space you choose within 10 feet of where it died.
+

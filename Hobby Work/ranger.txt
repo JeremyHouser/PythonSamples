@@ -1,0 +1,282 @@
+Cantrips:::
+1st level:::
+Inaudible
+1st-level illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Druid, Ranger, Wizard
+Choose a humanoid that you can see within range. The target must succeed on a Wisdom saving throw or become unable to cast spells that require a verbal component from 1 school of magic for the duration.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can select one addition school of magic for each slot level above 1st.
+
+Interpret Bone
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You touch a piece of bone from a creature that has been dead for less than a year and are able to see a brief vision of how that creature died.
+
+Nightowl
+1st-level conjuration (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (feather of an owl)
+Duration: 24 hours
+Classes: Druid, Ranger
+Selûne gives you her blessing, allowing you to summon the mythical spirit of an owl that appears on your shoulder. The owl cannot attack or carry any objects but understands any simple commands you give it up to a mile away. If not given any commands, the owl will remain upon your shoulder.
+   As a bonus action, you are able to see and hear through the perspective of the spirit owl, but you become blinded and deafened while doing so.
+
+Shed Skin
+1st-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V
+Duration: Instantaneous
+Classes: Druid, Ranger, Wizard
+You channel the peculiarity of reptiles and gain the ability to shed your skin the same manner as a snake. If cast while you are being grappled, the condition ends, and you can move up to 15 feet away from your target without provoking any attacks of opportunity.
+
+Skein of Vines
+1st-level conjuration
+Casting Time: 1 reaction
+Range: Self
+Components: V
+Duration: Instantaneous
+Classes: Druid, Ranger
+When you are unwillingly pushed or pulled in any direction, you call forth vines from the ground to wrap around your legs and keep you in place and remain until the start of your next turn. This spell can only be cast while you are on solid ground.
+
+Slashing Step
+1st-level conjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Ranger
+You enter a semi-ethereal state as you move with increased swiftness. Until the end of your turn, your movement speed increases by 15, and you may move through the spaces of enemy creatures without invoking attacks of opportunity. As part of your action, you may make a single melee attack against any creature whose space you pass through along your path, doing your normal attack damage on a hit.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+Storm of Arrows
+1st-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a feather)
+Duration: Up to 10 minutes
+Classes: Ranger
+You chant a minor incantation, brushing the arrows in your quiver with a feather. Upon finishing the casting, spectral duplicates of your arrows appear at a point in the sky in range, forming a 10-foot radius cylinder up to 100 feet tall. Any creatures in the cylinder must make a Dexterity saving throw or take 3d6 piercing damage, or half damage on a failed save.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each spell slot level above 1st.
+
+Zen Archery
+1st-level divination
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Druid, Ranger
+You allow your insight to guide attacks made with ranged weapons. For the duration, when you make an attack with a ranged weapon, you can use your spellcasting ability modifier instead of Dexterity for all attack and damage rolls.
+
+2nd level:::
+Analyze Blood
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (1 ounce of blood)
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Ranger, Sorcerer
+You are able to learn a number of qualities from one ounce of fresh blood, as long as it has not existed outside its source for more than 24 hours. Roll a d4 and choose a number of qualities to learn from the list below, equal to the die score:
+   • Learn the creature’s type
+   • Learn the creature’s age (if applicable)
+   • Learn the creature’s gender (if applicable)
+   • Learn if the blood carries any traces of poison or disease
+   • Learn if the creature is within 20 miles of your location
+   • Learn if the creature is still on your plane of existence
+   If you cast this spell using a spell slot, in addition to the information learned above, you will also see a brief glimpse of the moment right before the creature shed blood, from the perspective.
+
+Avian Geyser
+2nd-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, M (a feather)
+Duration: Concentration, up to 1 minute
+Classes: Bard, Druid, Ranger, Sorcerer, Wizard
+A gust of wind begins to swirl around a place on the ground that you can see within range, culminating in power. After a brief moment, a wind geyser 10 feet in diameter and up to 60 feet tall abruptly shoots into the air. Any medium or smaller creature that steps into the geyser or is in its space when the geyser is created must make a Dexterity saving throw or be lifted into the air to the geyser’s peak. Large creatures make their Dexterity save with advantage, and huge or larger creatures are unaffected.
+
+Detect Familiar
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+For the duration, you sense the presence of any creature that is currently serving as a familiar within 30 feet of you. If you sense a familiar in this way, you can use your action to see a faint aura around the creature. In addition, you are able to sense if its master is within 1 mile of your location and know their general direction.
+   The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Insurmountable to Surmountable
+2nd-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a spider’s leg)
+Duration: Up to 10 minutes
+Classes: Druid, Ranger, Wizard
+You touch a smooth surface that is difficult or unable to be climbed and transform the landscape to create tiny foot and hand holds in any direction 10 feet wide and up to 60 feet in length. Anyone who attempts to climb the transformed surface makes all Strength (Athletics) checks with a +2 bonus and rolls with advantage.
+
+Silvanus’ Favor
+2nd-level transmutation
+Casting Time: 1 bonus action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger, Wizard
+You touch a willing beast. Until the spell ends, the beast’s non-magical attacks become magical attacks with a +1 bonus to attack rolls and damage rolls.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+
+Track
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 8 hours
+Classes: Druid, Ranger
+You are able to identify the tracks made by a creature if you possess one thing that belonged to the creature. You also gain advantage on Wisdom based skill checks related to the target for the duration.
+
+3rd level:::
+Healing Leeches
+3rd-level conjuration (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 minute
+Classes: Druid, Ranger
+You summon two magical leeches that exist for the duration. They can be given to willing creatures and placed somewhere on their skin. While attached this way, they proceed to suck out all forms of nonmagical poison and toxins, rendering the creature immune to disease and poison effects for the duration. Additionally, the creature becomes resistant to poison damage for the duration.
+
+Poison Darts
+3rd-level conjuration
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S
+Duration: Up to 1 hour
+Classes: Bard, Druid, Ranger, Wizard
+You conjure 2d4 magical darts that last for one hour or until they are used. As an action on your turn, you may expend one of the darts to make a ranged spell attack against a creature you can see within in range. On a successful attack, you deal 2d6 poison damage to the target and force them to make a Constitution saving throw or become poisoned until the end of their next turn.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the you summon and additional 1d4 darts and they last for 1 additional hour for each slot level above 3rd.
+
+Scaleskin
+3rd-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (dragon scale worth 300 gp)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger
+You touch a willing creature. Until the spell ends, the target's skin has a smooth, scale-like appearance, and the target's AC can't be less than 18, regardless of what kind of armor it is wearing. Also, the target becomes resistant to a single damage type depending on what type of dragon scale you use: white (cold), red (fire), blue (lightning), black (acid), or green (poison).
+
+Steady Terrain
+3rd-level transmutation (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: 10 minutes
+Classes: Druid, Ranger
+You transform the ground, allowing you and your allies to traverse it with ease. Select a point that you can see within range, removing all difficult terrain within 60 of that point. If the terrain is difficult due to a magical spell, this spell negates that condition of the other spell if it was cast at 3rd level or lower.
+   When cast on a surface that would require Strength (Climbing) checks to traverse, any creatures you choose can make those checks with advantage.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the radius increases by 30 feet for every slot level above 3rd.
+
+4th level:::
+Brook Healing
+4th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+A creature you touch regains a number of hit points equal to 8d8 + your spellcasting ability modifier. When healing a creature in this manner, you immediately take psychic damage equal to half the amount healed as psychic damage and must make a DC 15 Constitution saving throw or suffer 1 level of exhaustion.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 4th.
+
+Hemorrhage
+4th-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Druid, Ranger, Sorcerer, Warlock
+You cause a target’s previously healed battle scars to rupture as blood begins exit from these opened wounds. Select a creature within range to make a Constitution saving throw, taking 2d8 slashing damage on a failed save. Additionally, roll a d8 for every two hit dice belonging to the creature. If this number is higher than the target's total hit points at the end of its next turn, it falls to 0 hit points. Temporary hit points do not count towards this total. If the target saves on the initial save, this spell has no effect.
+
+Observance
+4th-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Ranger
+You heighten the senses of one of your allies. Select a creature that you can see within range and grant them advantage on all Wisdom (Perception) and Intelligence (Investigation) skill checks for the duration. Additionally, the target can attack twice, instead of once, whenever it makes an attack of opportunity using its reaction for the duration.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can select one additional creature for each slot level above 4th.
+
+Sticks to Snakes
+4th-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a handful of sticks)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger
+You transform a bundle of sticks into a Swarm of Poisonous Snakes. The swarm turns back into sticks when it drops to 0 hit points or when the spell ends. The summoned swarm is friendly to you and your companions. The swarm has its own turn, which immediately follows your own on the initiative order. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to it, the swarm defends itself from hostile creatures, but otherwise takes no actions. The DM has the creatures’ statistics.
+
+5th level:::
+Hederan Embrace
+5th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a piece of ivy)
+Duration: Up to 24 hours
+Classes: Druid, Ranger
+Your limbs grow like the woody vines of a hedera plant. For the duration, your melee attack range increases up to a maximum of 15 feet. Additionally, other creatures provoke an opportunity attack from you when they enter your reach.
+
+Ilmater’s Fortune
+5th-level divination (ritual)
+Casting Time: 1 action
+Range: 1 mile
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You focus on the suffering of all creatures around you. For the duration, you sense the health of any injured creatures within 1 mile of your current location. You learn of their creature type (although not their identity), how critically they are injured, and the nature of any ailments affecting them.
+   Additionally, all restorative spells you cast for the duration gain 2d6 additional hit points of healing and you gain advantage on any Wisdom (Medicine) checks you make.
+
+Muffle
+5th-level illusion (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Up to 24 hours
+Classes: Bard, Ranger, Wizard
+You are able to magically reduce the noise an object makes so that it becomes silent for the duration or until you cast this spell again. If the target object would normally impose disadvantage on Dexterity based skill checks, it no longer does for the duration. You can dismiss this effect as a bonus action.
+
+Mystra’s Bequest
+5th-level enchantment
+Casting Time: 1 action
+Range: 10 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Ranger, Wizard
+You select up to 2 targets within range. The next spell they cast that targets only one creature and doesn’t have a range of self, can target a second creature in range with the same spell.
+
+Pride of the Wild
+5th-level enchantment
+Casting Time: 10 minutes
+Range: 30 feet
+Components: V, S
+Duration: Up to 8 hours
+Classes: Druid, Ranger
+Up to 10 creatures of your choosing within range have their movement speed doubled for the duration. This effect is removed if a target takes a hostile action towards any creature.
+
+Vengeance of Talos
+5th-level evocation
+Casting Time: 1 action
+Range: 5 feet
+Components: V, S
+Duration: 1 round
+Classes: Druid, Ranger, Sorcerer, Wizard
+You channel the rage of Talos, god of storms, to strike down a foe where it stands. Make a melee attack with a weapon. On hit, the target suffers the attack’s normal effects plus 6d8 lightning damage and becomes stunned. Additionally, every creature of large size or smaller other than yourself within 20 feet of the target must make a Dexterity saving throw or be knocked prone, regardless of whether the initial attack was successful.
+   At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+
+6th level:::
+7th level:::
+8th level:::
+9th level:::

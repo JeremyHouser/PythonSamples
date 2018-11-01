@@ -1,0 +1,255 @@
+﻿Amorphous Form
+2nd-level transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Druid, Sorcerer, Wizard
+You touch a creature with at least 1 hit point, transforming it into a gray ooze. An unwilling creature can make a Wisdom saving throw to avoid the effect.
+The transformation lasts for the duration, until the target drops to 0 Hit Points, or dies. The target's game Statistics, including mental Ability Scores, are replaced by the Statistics of a gray ooze. It retains its Alignment and personality.
+The target assumes the Hit Points of its new form. When it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 Hit Points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 Hit Points, it isn't knocked unconscious.
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
+The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+Analyze Blood
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (1 ounce of blood)
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Ranger, Sorcerer
+You are able to learn a number of qualities from one ounce of fresh blood, as long as it has not existed outside its source for more than 24 hours. Roll a d4 and choose a number of qualities to learn from the list below, equal to the die score:
+• Learn the creature’s type
+• Learn the creature’s age (if applicable)
+• Learn the creature’s gender (if applicable)
+• Learn if the blood carries any traces of poison or disease
+• Learn if the creature is within 20 miles of your location
+• Learn if the creature is still on your plane of existence
+If you cast this spell using a spell slot, in addition to the information learned above, you will also see a brief glimpse of the moment right before the creature shed blood, from the perspective.
+
+Avian Geyser
+2nd-level transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, M (a feather)
+Duration: Concentration, up to 1 minute
+Classes: Bard, Druid, Ranger, Sorcerer, Wizard
+A gust of wind begins to swirl around a place on the ground that you can see within range, culminating in power. After a brief moment, a wind geyser 10 feet in diameter and up to 60 feet tall abruptly shoots into the air. Any medium or smaller creature that steps into the geyser or is in its space when the geyser is created must make a Dexterity saving throw or be lifted into the air to the geyser’s peak. Large creatures make their Dexterity save with advantage, and huge or larger creatures are unaffected.
+
+Barricade
+2nd-level conjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Up to 1 minute
+Classes: Wizard
+You create a transparent vertical wall made of magical force (AC 25, 1 HP). The wall appears within range and lasts for the duration. You can make a straight wall up to 40 feet long, 40 feet high, and 5 feet thick. The wall provides full cover to creatures behind it and only creatures you allow can pass through it.
+
+Cognizant
+2nd-level enchantment
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 hour
+Classes: Bard, Wizard
+You touch a willing creature, allowing them to add their proficiency bonus to all initiative rolls and all Intelligence based skill checks for the duration. You can only have one instance of this spell active at a time.
+
+Detect Familiar
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+For the duration, you sense the presence of any creature that is currently serving as a familiar within 30 feet of you. If you sense a familiar in this way, you can use your action to see a faint aura around the creature. In addition, you are able to sense if its master is within 1 mile of your location and know their general direction.
+The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Drain Life
+2nd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You can weaken one foe by lowering its maximum hit points. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, 2d8 + your spell casting modifier worth of hit points are subtracted from its maximum until it completes a long rest. If this effect reduces the target’s total hit points to zero, it dies.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+Druthers
+2nd-level enchantment
+Casting Time: 1 bonus action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: Up to 1 minute
+Classes: Bard, Paladin, Sorcerer
+You make a simple request of up to 10 words, gaining a +5 bonus and advantage on Persuasion skill checks to all humanoids within 30 feet of you.
+
+Gale of Obscurity
+2nd-level evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 minute
+Classes: Druid, Sorcerer, Wizard
+You summon a blizzard that obscures you from other creatures. For the duration, the gale provides you three-quarters cover, resistance to fire damage, and any creature that starts its turn or moves within 5 feet of you for the first time takes 1d6 cold damage.
+While the gale is active, you suffer disadvantage on all ranged weapon and spell attacks.
+
+Glacious
+2nd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Druid, Sorcerer, Wizard
+The ground freezes in a 10-foot-radius sphere centered on a point you choose within range. Any creature that starts its turn or moves into the area for the first time must make a Constitution saving throw or take 2d8 cold damage and gain one level of exhaustion. On a successful save, a creature takes half as much damage and does not suffer exhaustion. Creatures resistant or immune to cold damage automatically succeed on the saving throw.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+
+Grimlore’s Shadowgrasp
+2nd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You create a medium-sized hand made of shadow in an unoccupied space that you can see. It moves at your command, mimicking the movements of your own hand.
+The hand is an object that has AC 14, hit points equal to half your hit point maximum and a movement speed of 40 feet. If it drops to 0 hit points, the spell ends. The hand doesn't fill its space and remains under the effects of the blur spell while active.
+When you cast the spell, and as a bonus action on your turns, you can make a ranged spell attack against a creature within 5 feet of the hand, dealing 1d12 of necrotic damage. On a successful attack, the target must also make a Wisdom saving throw or be frightened of you. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to being frightened by this spell for the next 24 hours.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage dealt by the hand increases by 1d6 for every slot level above 2nd.
+
+Holy Missile
+2nd-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric
+You create three glowing darts of holy energy. Each dart hits a creature of your choice that you can see within range. Each dart heals its target for 1d4 hit points. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+Howling Downpour
+2nd-level conjuration (ritual)
+Casting Time: 1 bonus action
+Range: 90 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Druid, Wizard
+You summon a storm cloud up to 60 feet above the ground at a point you can see in range. After 1d4 rounds, the clouds produce rain at an alarming rate, dousing everything in a 10-foot radius cylinder below the cloud. The rain extinguishes all non-magical fire within the area immediately.
+As a bonus action on your turn, you can move the cloud up to 30 feet in any direction that does not exceed the spell’s range and to a maximum height of 60 feet.
+
+Insurmountable to Surmountable
+2nd-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a spider’s leg)
+Duration: Up to 10 minutes
+Classes: Druid, Ranger, Wizard
+You touch a smooth surface that is difficult or unable to be climbed and transform the landscape to create tiny foot and hand holds in any direction 10 feet wide and up to 60 feet in length. Anyone who attempts to climb the transformed surface makes all Strength (Athletics) checks with a +2 bonus and rolls with advantage.
+
+Mana Burn
+2nd-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+You create a magic ball of glowing energy and launch it at a creature that you can see within range. The target must make an Intelligence saving throw or take 1d6 psychic damage and lose an unused 2nd level spell slot until it completes a long rest. If the target does not have any 2nd level spell slots remaining, it will lose a 1st level spell slot instead.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for every slot level above 2nd. Also, the unused spell slot lost by the target is equal to the spell slot used to cast the spell. If the target does not have an unused slot level of that level to lose, they will lose a spell slot of the next lower level, and so on, until they lose an unused spell slot.
+
+Manacle of Burden
+2nd-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You target two creatures that are within 20 feet of each other within range and cause them to make a Strength saving throw with disadvantage. If both targets fail, they are bound to one another by a spectral manacle of your creation and will split all damage done to them.
+For the duration, any damage done to either target is halved (rounded down) and then dealt to the other bound creature as well.
+If the two bound creatures move more than 20 feet apart, the manacle breaks causing 4d6 necrotic damage to each target.
+
+Necrotic Visage
+2nd-level necromancy
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You evoke a shadowy visage that appears above you. The visage remains until you use your action to make a melee spell attack with your equipped weapon. On a successful attack, your attack is replaced by that of the shadowy visage, who attacks your target with a necrotic scythe, dealing 4d6 necrotic damage and then disappears.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+
+Pullulate
+2nd-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (plant seed)
+Duration: Instantaneous
+Classes: Druid
+You plant a seed from a type of plant that used to grow in your current location. Upon touching the ground above the buried seed and speaking a small prayer, the species of the plant begins to regrow, taking 1d4 hours to reach maturity.
+
+Radiating Blade of Tempus
+2nd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (an amulet or holy symbol)
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Paladin
+You call upon Tempus, the god of war, to grant you the ability to strike down your foes in his name. Using your bonus action, you are able to sheathe a melee weapon you possess with a white burning flame. You can use your action to make a melee attack with the fiery blade. On a hit, the target takes the weapon’s normal attack damage plus 1d8 radiant damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+
+Shadow Bind
+2nd-level illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Sorcerer, Warlock, Wizard
+You take control of the shadow belonging to a creature to restrain its master. Make a ranged spell attack against a creature that you can see within range, dealing 2d6 necrotic damage and grappling the target. The grappled creature can use an action to make a strength or dexterity check (creature's choice) against your spellcasting DC, ending the spell if successful. You are not able to control a target’s shadow when either are in bright light.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d6 for each slot level above 2nd.
+
+Silvanus’ Blessing
+2nd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a small diamond worth at least
+50 gp, which the spell consumes)
+Duration: Instantaneous
+Classes: Druid, Ranger
+You return a dead beast you touch to life, provided that it has been dead no longer than 8 hours. If the beast’s soul is both willing and at liberty to rejoin the body, the beast returns to life with half of its total hit points, rejuvenated by the blessing of Silvanus.
+This spell also neutralizes any poisons and cures nonmagical diseases that affected the beast at the time it died. This spell doesn’t, however, remove magical diseases, curses, or similar effects; if these aren’t first removed prior to casting the spell, they take effect when the beast returns to life.
+This spell closes all mortal wounds, but it doesn’t restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
+
+Silvanus’ Favor
+2nd-level transmutation
+Casting Time: 1 bonus action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger, Wizard
+You touch a willing beast. Until the spell ends, the beast’s non-magical attacks become magical attacks with a +1 bonus to attack rolls and damage rolls.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
+
+Surge of Chaos
+2nd-level transmutation
+Casting Time: 1 reaction
+Range: Self
+Components: V
+Duration: Instantaneous
+Classes: Sorcerer
+When you are forced to roll on the wild magic table, you can choose to use your bonus action to reroll on the table after seeing the result of your first roll. You must take the second result.
+
+Track
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 8 hours
+Classes: Druid, Ranger
+You are able to identify the tracks made by a creature if you possess one thing that belonged to the creature. You also gain advantage on Wisdom based skill checks related to the target for the duration.
+
+Veil of Elements
+2nd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a small moonstone)
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Wizard
+You summon a swirling mass of elements in a 15- foot-radius, 40-foot-tall cylinder centered on a point you can see within range. Each creature that begins their turn in the veil or moves into it during their turn must make a Dexterity saving throw. A creature takes 3d6 damage from an element of your choosing (cold, fire, lightning, thunder) on a failed save, or half as much on a successful one, which expends that damage type from the veil.
+The spell ends once all four damage types are expended, or the spell’s duration is reached.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases of each element increases 1d6 for each slot level above 2nd.

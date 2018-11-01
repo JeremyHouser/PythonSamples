@@ -1,0 +1,196 @@
+﻿Army of the Dead
+4th-level necromancy
+Casting Time: 1 action
+Range: 45 feet
+Components: V, S, M (a handful of bone dust)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+This spell creates 2d4 undead servant skeletons. Choose piles of humanoid bones within range. Your spell imbues the targets with a foul mimicry of life, raising them as undead skeletons (the DM has the creature's game statistics). The skeletons act immediately after your turn on the initiative order.
+On each of your turns, you can use a bonus action to mentally command any creatures you made with this spell if the creature is within 60 feet of you (issuing the same command to each one). You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creatures only defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+The creatures are under your control for 1 minute, after which point the spell ends and they collapse to the ground, lifeless.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you are able to add an addition 1d4 to the total number of skeletons raised by this spell for every slot higher than 4th level.
+
+Boundary
+4th-level abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: Instantaneous
+Classes: Bard, Cleric, Wizard
+You create a small barrier of force to protect a creature you can see within range. The creature gains 25 + 1d10 worth of temporary hit points.
+
+Brook Healing
+4th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+A creature you touch regains a number of hit points equal to 8d8 + your spellcasting ability modifier. When healing a creature in this manner, you immediately take psychic damage equal to half the amount healed as psychic damage and must make a DC 15 Constitution saving throw or suffer 1 level of exhaustion.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 4th.
+
+Dusk Arrows
+4th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Wizard
+You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d8 necrotic damage. The spell’s magic ends on the piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
+If a target dies as a result of your ranged attack while using this ammunition, its flesh melts away and it is raised as a skeleton under your control for 24 hours, after which it stops obeying any command you've given it. You may control a number of skeletons equal to your proficiency bonus at any time with this spell.
+On each of your turns, you can use a bonus action to mentally command a skeleton raised by a dusk arrow if it is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one).
+
+Embers
+4th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Druid, Sorcerer, Wizard
+You cause tiny burning embers to fall from the sky around you in a 30-foot radius. When you cast the spell, you must choose if you intend for the embers to help or hinder.
+• Help: The embers provide restorative powers to all creatures that you choose within range. Creatures that are currently unconscious gain advantage on all death saving throws until they complete a short rest or die, whichever comes first. Creatures that are conscious gain 3d6 temporary hit points
+• Hinder: The embers work to oppress your foes. All creatures that you choose within range must make a Dexterity saving throw or take 3d6 fire damage and have their movement speed halved until the end of their next turn. They take half damage on a successful saving throw and their move speed is unaffected.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the die increases by 1d6 on either effect for every slot level above 4th.
+
+Furtive Armory
+4th-level conjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (An exquisite weapon rack, 10 feet wide by 6 feet tall, constructed from rare materials worth at least 6,000 gp, and a Tiny replica made from the same materials worth at least 60 gp)
+Duration: Instantaneous
+Classes: Wizard
+You hide a weapon rack, and all its contents, on the Ethereal Plane. You must touch the rack and the miniature replica that serves as a material component for the spell. The weapon rack can hold 15 pieces of adventuring gear, weapons or armor. While the weapon rack remains on the Ethereal Plane, you can use an action and touch the replica to recall the rack. It appears in an unoccupied space on the ground within 10 feet of you. You can send the weapon rack back to the Ethereal Plane by using an action and touching both the rack and the replica.
+After 60 days, there is a cumulative 5 percent chance per day that the spell’s effect ends. This effect ends if you cast this spell again, if the smaller replica rack is destroyed, or if you choose to end the spell as an action. If the spell ends and the larger weapon rack is on the Ethereal Plane, it is irretrievably lost.
+
+Gift of Vivacity
+4th-level abjuration
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call upon your divine grace to bestow strength upon an ally at the expense of your own. Select a creature that you can see within range and grant them a number of temporary hit points equal to your maximum hit points, but you immediately take 4 levels of exhaustion.
+
+Grimlore’s Withering Coils
+4th-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You create three spectral coils gleaming with green necrotic energy. Make a ranged spell attack against up to three separate targets within range, one for each coil. Each successful attack deals 3d12 necrotic damage and the target must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. If the target makes a successful saving throw, it cannot be frightened by this spell for 24 hours.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage of each coil increases by 1d12 for every two slot levels above 4th.
+
+Hallowing Curse
+4th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Warlock, Wizard
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, an ill omen is placed on the target, causing disadvantage on Strength and Constitution ability checks and saving throws for the duration. While cursed, the target gains 5d10 worth of negative temporary hit points. These negative temporary hit points must be healed through before a target’s normal hit points can be healed. While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing. A remove curse spell ends this effect.
+At Higher Levels: If you cast this spell using a spell slot of 5th level or higher, the Duration is 8 hours. If you use a spell slot of 7th level or higher, the Duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a Duration that doesn't require Concentration.
+
+Healing Stone
+4th-level transmutation (ritual)
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (incense worth 50gp, which the
+spell consumes, and a bloodstone worth 300gp)
+Duration: Up to 10 days
+Classes: Druid
+You infuse a bloodstone with restorative magics. As an action on your turn within the next 10 days, you can use the stone to heal yourself or a creature within 5 feet of you for 6d4 + 6 hit points, returning the stone to its non-magical state. You may only infuse one bloodstone with this magic at a time.
+
+Hemorrhage
+4th-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Druid, Ranger, Sorcerer, Warlock
+You cause a target’s previously healed battle scars to rupture as blood begins exit from these opened wounds. Select a creature within range to make a Constitution saving throw, taking 2d8 slashing damage on a failed save. Additionally, roll a d8 for every two hit dice belonging to the creature. If this number is higher than the target's total hit points at the end of its next turn, it falls to 0 hit points. Temporary hit points do not count towards this total. If the target saves on the initial save, this spell has no effect.
+
+Improved Mage Armor
+4th-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (A link of a metal chain)
+Duration: 8 hours
+Classes: Sorcerer, Wizard
+You touch a willing creature who isn’t wearing armor, and a protective magical force surrounds it until the spell ends. The target’s base AC becomes 15 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+
+Lathander’s Blessing
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Lathander, god of birth and renewal, to aid you in your quest by protecting you against being slain by your foes. For the duration, if a single attack would knock you unconscious or kill you outright, you are instead lowered to 1 hit point and may roll 4d6 and receive that many temporary hit points.
+
+Observance
+4th-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Ranger
+You heighten the senses of one of your allies. Select a creature that you can see within range and grant them advantage on all Wisdom (Perception) and Intelligence (Investigation) skill checks for the duration. Additionally, the target can attack twice, instead of once, whenever it makes an attack of opportunity using its reaction for the duration.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you can select one additional creature for each slot level above 4th.
+
+Plague
+4th-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You point at a creature within range, causing a dark green glow to pass over their body. The creature must make a Constitution saving throw or take 4d10 poison damage and become diseased; suffering disadvantage on all attack and skill checks for the duration as their skin begins to pustules all over their body.
+If the disease is not removed within 1 hour, the creature must make another Constitution saving throw or die. If a creature dies as the result of this spell, every creature within 10 feet must make a Constitution saving throw or become affected by this spell, as if it was initially cast on them. Constructs and undead are immune to the spell.
+
+Raze
+4th-level evocation
+Casting Time: 1 action
+Range: Self (15-foot radius)
+Components: V, S, M (a red dragon’s scale worth 300 gp)
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+You summon a fiery floor of bubbling lava below your feet. Each creature other than you in that area must make a Dexterity saving throw. On a failed save, a creature takes 4d10 fire damage and may only move up to half of their movement speed until the end of their next turn. Creatures that are within 5 feet of you must make the Dexterity saving throw with disadvantage. Creatures take half damage and do not lose any movement speed on a successful saving throw.
+At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the radius of the spell increases by 5 feet for every slot level above 4th.
+
+Spellsteal
+4th-level abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Up to 1 minute
+Classes: Wizard
+You cause a creature you can see within range to make a Wisdom saving throw. On a failed save, you place a minor hex on them. The next spell they attempt to cast of 3rd level or lower fails and has no effect. When they fail to cast a spell in this manner, you are able to immediately cast it using your reaction instead. Casting a spell in this manner grants you temporary insight into how the spell is cast even if it is not on your available spell list and does not use a spell slot. The spell is not added to your spellbook.
+At Higher Levels: If you cast this spell using a spell slot of 5th level or higher, the spell level that you can affect increases by one level for each spell level above 4th.
+
+Sticks to Snakes
+4th-level transmutation (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a handful of sticks)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger
+You transform a bundle of sticks into a Swarm of Poisonous Snakes. The swarm turns back into sticks when it drops to 0 hit points or when the spell ends. The summoned swarm is friendly to you and your companions. The swarm has its own turn, which immediately follows your own on the initiative order. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to it, the swarm defends itself from hostile creatures, but otherwise takes no actions. The DM has the creatures’ statistics.
+
+Torm’s Safeguard
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Torm, god of courage, to offer you his protection. As an action on your turn, your body is coated in a white shimmering light, offering bright light for 20 feet and dim light for another 20. Additionally, you are granted 35 temporary hit points and any attack rolls you make against fiends are done with advantage for the duration. The spell ends when the temporary hit points have been used or 1-minute passes, whichever happens first.
+
+Vermintide
+4th-level conjuration (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (two dead rats)
+Duration: Concentration, up to 8 hours
+Classes: Druid, Wizard
+You conjure two huge swarms of rats in any location you can see within range. Each swarm dies when it drops to 0 hit points. The swarms are friendly to you and your companions. Roll initiative for the swarms, which have their own turns. They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands, each swarm will spend its turn seeking out the nearest source of food. If a swarm is alive after 8 hours, you will lose your control over it and the swarm will disband into an appropriate number of tiny rats. You can recast the spell before it expires to regain control over the swarms again. The DM has the swarms’ statistics (216 hit points, other stats as Swarm of Rats).

@@ -1,0 +1,230 @@
+Cantrips:::
+1st level:::
+Cauterizing Flame
+1st-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+A creature you touch regains a number of hit points equal to 2d10 + your spellcasting ability modifier. However, the creature can no longer regain hit points by any other means until it completes a short or long rest. This spell has no effect on undead or constructs.
+   At Higher Levels: The healing increases by 1d10 for each slot level above 1st.
+
+Detect Chaos and Order
+1st-level divination
+Casting Time: 1 action
+Range: Self (15-foot-radius sphere)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+For the duration, you are able to determine the nature of creatures within range in relation to how they conform to societal norms. Creatures will have auras about them relating to their alignment:
+   • a jagged, chaotic aura for those with a tendency toward acting on their feelings and whims, regardless of society’s expectations
+   • a muddled, neutral aura for those who balance their whims against the expectations of society, doing what they can within the confines of order
+   • a crisp, lawful aura for those who follow the rules of society, often at the expense of their personal wishes
+
+Divine Arm
+1st-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+Your deity imbues a melee weapon you currently possess with an essence of their power and launches it at a foe within 60 feet. Make a melee spell attack against a creature you can see within range. If successful, the target takes your weapon’s normal damage plus an additional 2d10 radiant or necrotic damage (your choice). The weapon breaks after it is used in this manner.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for every 2 slot levels above 1st.
+
+Helm’s Everwatchful Eye
+1st-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call out to the deity known as Helm and plead for the Vigilant One to use his divine grace to help one of your allies in need. You use your reaction to select one creature that you can see within range that has just failed a saving throw and roll a d20. On a roll of 16 or higher, Helm will intervene and allow the target to succeed instead.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you reduce the die score required by 2 for every slot level above 1st.
+
+Interpret Bone
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You touch a piece of bone from a creature that has been dead for less than a year and are able to see a brief vision of how that creature died.
+
+Shield of Devotion
+1st-level abjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Cleric, Paladin
+A gleaming shield appears round a creature of your choice within range, causing any critical hit against them to become a normal hit. They also gain 1d8 temporary hit points for the duration.
+
+2nd level:::
+Detect Familiar
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+For the duration, you sense the presence of any creature that is currently serving as a familiar within 30 feet of you. If you sense a familiar in this way, you can use your action to see a faint aura around the creature. In addition, you are able to sense if its master is within 1 mile of your location and know their general direction.
+   The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Druthers
+2nd-level enchantment
+Casting Time: 1 bonus action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: Up to 1 minute
+Classes: Bard, Paladin, Sorcerer
+You make a simple request of up to 10 words, gaining a +5 bonus and advantage on Persuasion skill checks to all humanoids within 30 feet of you.
+
+Radiating Blade of Tempus
+2nd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (an amulet or holy symbol)
+Duration: Concentration, up to 10 minutes
+Classes: Cleric, Paladin
+You call upon Tempus, the god of war, to grant you the ability to strike down your foes in his name. Using your bonus action, you are able to sheathe a melee weapon you possess with a white burning flame. You can use your action to make a melee attack with the fiery blade. On a hit, the target takes the weapon’s normal attack damage plus 1d8 radiant damage. The flaming blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for every two slot levels above 2nd.
+
+3rd level:::
+﻿Absorbing Ward
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin, Sorcerer, Wizard
+You use your reaction to create a protective ward that has 18 hit points. When you take any single source of damage, this ward will protect you by absorbing up to its total hit points of damage. On your next attack, you are able to release the energy force absorbed by the ward, adding the amount of damage to your next attack damage.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the ward gains 6 hit points for every slot level above 3rd.
+
+Ameliorate
+3rd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Cleric, Druid, Paladin
+A creature you can see within range gains a number of temporary hit points equal to 2d6 + your spellcasting ability modifier. This effect happens every round at the start of your turn for the duration.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the temporary hit points given increase by 1d6 for each slot level above 3rd.
+
+Invocation from Bahamut
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S, M (a dragon’s scale)
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You make a plea to the deity Bahamut, dragon god of justice, to aid an ally. Using your reaction, you allow a creature that you witness fail a saving throw to attempt another save with advantage.
+
+Reshape Destiny
+3rd-level necromancy
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Paladin, Sorcerer
+You can change an outcome that the cosmic forces have foretold. As a reaction, you can allow a creature you can see within range that just failed a death saving throw to succeed instead. Additionally, future death saving throws are made with advantage until the creature is either stabilized or dies, whichever happens first.
+
+Vaporous Smite
+3rd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 1 minute
+Classes: Paladin
+The next time you hit a creature with a melee weapon attack during this spell’s duration, your weapon flares with a misty white shroud and the attack deals an extra 3d8 radiant damage to the target. Immediately after the attack, your form turns into a gaseous vapor and you are able to travel up to 15 feet without provoking attacks of opportunity. You return to your normal form at the end of your turn.
+
+4th level:::
+Brook Healing
+4th-level evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+A creature you touch regains a number of hit points equal to 8d8 + your spellcasting ability modifier. When healing a creature in this manner, you immediately take psychic damage equal to half the amount healed as psychic damage and must make a DC 15 Constitution saving throw or suffer 1 level of exhaustion.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the healing increases by 1d8 for each slot level above 4th.
+
+Gift of Vivacity
+4th-level abjuration
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You call upon your divine grace to bestow strength upon an ally at the expense of your own. Select a creature that you can see within range and grant them a number of temporary hit points equal to your maximum hit points, but you immediately take 4 levels of exhaustion.
+
+Lathander’s Blessing
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Lathander, god of birth and renewal, to aid you in your quest by protecting you against being slain by your foes. For the duration, if a single attack would knock you unconscious or kill you outright, you are instead lowered to 1 hit point and may roll 4d6 and receive that many temporary hit points.
+
+Torm’s Safeguard
+4th-level abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Paladin
+You invoke the blessing of Torm, god of courage, to offer you his protection. As an action on your turn, your body is coated in a white shimmering light, offering bright light for 20 feet and dim light for another 20. Additionally, you are granted 35 temporary hit points and any attack rolls you make against fiends are done with advantage for the duration. The spell ends when the temporary hit points have been used or 1-minute passes, whichever happens first.
+
+5th level:::
+Blood of the Martyr
+5th-level abjuration
+Casting Time: 1 reaction
+Range: Self
+Components: S
+Duration: Instantaneous
+Classes: Paladin
+When you receive damage from a melee attack from a creature that is within 5 feet of you, you can choose to take an additional 8d6 damage of that damage type. Upon doing so, you can then use your reaction to make a melee attack with advantage against the creature that just attacked you. If your attack is successful, you deal your normal weapon damage plus an additional 6d6 weapon damage.
+
+Ilmater’s Fortune
+5th-level divination (ritual)
+Casting Time: 1 action
+Range: 1 mile
+Components: V, S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Cleric, Druid, Paladin, Ranger
+You focus on the suffering of all creatures around you. For the duration, you sense the health of any injured creatures within 1 mile of your current location. You learn of their creature type (although not their identity), how critically they are injured, and the nature of any ailments affecting them.
+   Additionally, all restorative spells you cast for the duration gain 2d6 additional hit points of healing and you gain advantage on any Wisdom (Medicine) checks you make.
+
+Linked Lifeblood
+5th-level abjuration
+Casting Time: 1 action
+Range: Self (15-foot-radius sphere)
+Components: V, S
+Duration: 1 minute
+Classes: Paladin
+You create a protective tether to your allies, siphoning their pain for 1 minute. You gain temporary hit points equal to your total maximum hit points. An ally within range that would take damage for the duration takes none, and the damage is transferred to you instead. If this damage exceeds your temporary hit points, it is applied to your remaining hit points. The spell ends after the duration or if you die, whichever happens first.
+   At Higher Levels: If you cast this spell with a spell slot of 6th level or higher, the duration is 10 minutes. Spell slots from 7th level increase the duration to an hour, and from 8th level slots the spell lasts until dispelled. Using a spell slot of 6th level or higher allows you to end the spell as an action.
+
+Sundering Smite
+5th-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 1 minute
+Classes: Paladin
+The next time you hit with a melee weapon attack during the spell's duration, your attack deals an extra 6d8 radiant damage. The target must make a Strength save or suffer a -5 AC penalty until the end of its next turn.
+
+Vehement Inquiry
+5th-level enchantment (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a drop of the target’s blood)
+Duration: Up to 1 hour
+Classes: Bard, Paladin, Warlock
+You can force a creature to answer your questions in a truthful manner. Upon casting this spell, you immediately lose 1d8 of your remaining hit dice as a sacrifice. You must have at least eight hit dice to cast this spell. You touch a target for which you have a sample of their blood and cause them to make a Wisdom saving throw at disadvantage. If the target fails, they must answer up to 2d4 of your questions. The target must respond, must speak the truth and cannot provide an answer that is misleading in any way.
+
+6th level:::
+7th level:::
+8th level:::
+9th level:::

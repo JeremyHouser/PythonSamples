@@ -1,0 +1,247 @@
+﻿Absorbing Ward
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Cleric, Paladin, Sorcerer, Wizard
+You use your reaction to create a protective ward that has 18 hit points. When you take any single source of damage, this ward will protect you by absorbing up to its total hit points of damage. On your next attack, you are able to release the energy force absorbed by the ward, adding the amount of damage to your next attack damage.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the ward gains 6 hit points for every slot level above 3rd.
+
+Ameliorate
+3rd-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Cleric, Druid, Paladin
+A creature you can see within range gains a number of temporary hit points equal to 2d6 + your spellcasting ability modifier. This effect happens every round at the start of your turn for the duration.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the temporary hit points given increase by 1d6 for each slot level above 3rd.
+
+Ancestral Guidance
+3rd-level divination (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Alexandrite dust worth at least
+50 gp, which the spell consumes)
+Duration: 1 hour
+Classes: Bard, Cleric, Druid
+You touch a willing creature and call upon the spirits of their ancestors to appear and offer guidance. The target may pick one language to become proficient in for the duration. Additionally, it gains double its proficiency bonus for ability checks it makes that use Intelligence and Wisdom until the spell ends.
+
+Create Useful Robe Patch
+3rd-level conjuration (ritual)
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (a blank patch worth at least
+10gp, an item and a robe of useful things with
+available space)
+Duration: Instantaneous
+Classes: Bard, Wizard
+You compress a single mundane item onto a blank patch with the intention of attaching it to a Robe of Useful Items. The item you choose must be no larger than 30 feet in any dimension. The patch must then be sewn onto a Robe of Useful Items before it can be used.
+At Higher Levels: When casting this spell using a spell slot, you are able to fashion non-sentient magic items into patches depending on the spell slot used, as follows: 3rd level (common), 5th level (uncommon), 7th level (rare), and 9th level (very rare).
+
+Displacement
+3rd-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+Using your action, you are able to swap places with a creature you can see within range. If the target is hostile towards you, it can attempt a Charisma saving throw to resist the effect.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the range of the spell increases by 20 feet for each slot level above 3rd.
+
+Distressing Melody
+3rd-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V or S, M (an instrument)
+Duration: Instantaneous
+Classes: Bard
+You select one creature within range and sing or play a song aimed at disrupting your target, causing them to make a Constitution saving throw vs your spellcasting DC or lose their focus, ending any concentration spell they currently are casting. If they lose concentration in this manner, they cannot cast a spell from the same school of magic until they complete a long rest.
+
+Fire Whip
+3rd-level evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Sorcerer, Warlock, Wizard
+You create a whip made of scorching flame and select one creature within range, with the intention of unbalancing it. The target must make a Dexterity saving throw. On a failed save, the target takes 5d8 fire damage and you choose to knock it prone or to pull it up to 30 feet closer to your location.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 and you can pull the target an additional 5 feet for each slot level above 3rd.
+
+Frost Armor
+3rd-level conjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Up to 1 minute
+Classes: Druid, Sorcerer, Wizard
+You touch a willing creature, encasing them in a protective coating of ice. For the duration, they gain a +3 bonus to AC and become resistant to cold damage but suffer disadvantage on all Dexterity checks and saves for the duration. Every time they are hit by a melee weapon attack, their attacker takes 1d6 cold damage. Additionally, each time they are successfully attacked, the protection provided by frost armor wanes, reducing its armor class bonus by 1. After the AC bonus provided by the armor is reduced to 0, the armor shatters and the spell ends.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and it gains a +1 bonus to AC for every three slots level above 3rd.
+
+Grimlore’s Affliction
+3rd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Sorcerer, Warlock, Wizard
+You harness necrotic energies and infuse them into your very being. For the next 10 minutes, every time you deal damage with an attack or spell attack to a creature, you deal an additional 1d12 necrotic damage and the creature must make a Wisdom saving throw or become frightened of you until the end of its next turn.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for every two slot levels above 3rd.
+
+Healing Leeches
+3rd-level conjuration (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: 1 minute
+Classes: Druid, Ranger
+You summon two magical leeches that exist for the duration. They can be given to willing creatures and placed somewhere on their skin. While attached this way, they proceed to suck out all forms of nonmagical poison and toxins, rendering the creature immune to disease and poison effects for the duration. Additionally, the creature becomes resistant to poison damage for the duration.
+
+Invocation from Bahamut
+3rd-level abjuration
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V, S, M (a dragon’s scale)
+Duration: Instantaneous
+Classes: Cleric, Paladin
+You make a plea to the deity Bahamut, dragon god of justice, to aid an ally. Using your reaction, you allow a creature that you witness fail a saving throw to attempt another save with advantage.
+
+Lunacy
+3rd-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Warlock, Wizard
+You target a creature that you can see within range and pick at the fragile fabric that allows them to maintain their sanity. The creature must make a Wisdom saving throw or roll on the Short-Term Madness Table (DMG, pg.258) and remain under the effect for 1d10 minutes.
+
+Mass Vicious Mockery
+3rd-level enchantment
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Classes: Bard
+You unleash a string of insults laced with subtle enchantments at up to 6 creatures that you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Wisdom saving throw or take 2d4 psychic damage and have disadvantage on the next attack roll it makes before the end of its next turn.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 2d4 damage for each slot level above 3rd.
+
+Mummify
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (A piece of cloth)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+You touch a creature and utter an ancient curse. The target must make a Strength saving throw or take 2d8 necrotic damage and become restrained as spectral wrappings begin to tighten around their body. Until the spell ends, as a bonus action on each of your turns after this one, you can cause the target to take an additional 2d8 necrotic damage every round after the spell was initially cast.
+The target can attempt a Strength saving throw at the beginning of their turns to break the binding, ending the spell.
+A creature that dies while under the effect of this spell becomes cursed. 24 hours after the creature’s death, it rises as a mummy that is hostile towards the party. A remove curse spell ends this effect on the target is cast before it is animated as a mummy but has no effect if cast on a mummy created as the result of this spell.
+
+Poison Darts
+3rd-level conjuration
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S
+Duration: Up to 1 hour
+Classes: Bard, Druid, Ranger, Wizard
+You conjure 2d4 magical darts that last for one hour or until they are used. As an action on your turn, you may expend one of the darts to make a ranged spell attack against a creature you can see within in range. On a successful attack, you deal 2d6 poison damage to the target and force them to make a Constitution saving throw or become poisoned until the end of their next turn.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the you summon and additional 1d4 darts and they last for 1 additional hour for each slot level above 3rd.
+
+Poisoned Heart
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock
+You touch a creature, causing its heart to fill with a vile poison. The creature must make a Constitution saving throw or take 2d10 poison damage. At the end of each of the target’s turns before the spell ends, the target must succeed on a Constitution saving throw or take an additional 2d10 poison damage.
+At any point during the spell, if the target dies as a result of the poison damage from this spell, every creature within 5 feet of the target must make a Constitution saving throw or take 4d10 poison damage, or half as much on a success as the target’s heart explodes.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, all damage dealt from spell increases by 1d10 for every slot level above 3rd.
+
+Predominance
+3rd-level divination
+Casting Time: 1 action
+Range: Self
+Components: V
+Duration: Up to 1 hour
+Classes: Sorcerer
+You attempt to unleash the power contained within your being. When you first cast this spell, roll a d20. If the result is higher than the difference of 20 and your spellcasting modifier, you gain 3 predominance dice. Within the next hour, you may use each of these dice to gain advantage on a single d20 roll, at which point the die is expended.
+
+Reshape Destiny
+3rd-level necromancy
+Casting Time: 1 reaction
+Range: 30 feet
+Components: V
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Paladin, Sorcerer
+You can change an outcome that the cosmic forces have foretold. As a reaction, you can allow a creature you can see within range that just failed a death saving throw to succeed instead. Additionally, future death saving throws are made with advantage until the creature is either stabilized or dies, whichever happens first.
+
+Return
+3rd-level conjuration
+Casting Time: 1 reaction
+Range: 45 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Wizard
+Using your reaction, you can cause a target creature to return to the space they occupied at the start of their previous turn. Select a creature that you can see within range, forcing them to make a Charisma saving throw or be teleported back to their point of origin in their previous turn if you can see their destination. A target can choose to fail this saving throw if they wish. If the space the target would be teleported into is occupied by another creature or an object, the target and the space-occupier each take 1d10 force damage, and the target must move to another space within 5 feet of the destination.
+
+Scaleskin
+3rd-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (dragon scale worth 300 gp)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Ranger
+You touch a willing creature. Until the spell ends, the target's skin has a smooth, scale-like appearance, and the target's AC can't be less than 18, regardless of what kind of armor it is wearing. Also, the target becomes resistant to a single damage type depending on what type of dragon scale you use: white (cold), red (fire), blue (lightning), black (acid), or green (poison).
+
+Sphere of Deceit
+3rd-level illusion
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: 10 minutes
+Classes: Bard, Warlock
+You create a magical zone that enables deception in a 15-foot-radius sphere on a point of your choice within range. Until the spell ends, any creatures of your choosing that enter the spell's area gain advantage on all Deception skill checks. Additionally, any creatures in the spell’s area that you do not grant this bonus must make a Wisdom saving throw or suffer disadvantage on all Wisdom (Insight) checks made while in the area. When the spell ends, they know that they were deceived in this manner.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the radius of the sphere is increased by 10 feet for every slot level above 3rd.
+
+Steady Terrain
+3rd-level transmutation (ritual)
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: 10 minutes
+Classes: Druid, Ranger
+You transform the ground, allowing you and your allies to traverse it with ease. Select a point that you can see within range, removing all difficult terrain within 60 of that point. If the terrain is difficult due to a magical spell, this spell negates that condition of the other spell if it was cast at 3rd level or lower.
+When cast on a surface that would require Strength (Climbing) checks to traverse, any creatures you choose can make those checks with advantage.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the radius increases by 30 feet for every slot level above 3rd.
+
+Spectral Steed
+3rd-level conjuration (ritual)
+Casting Time: 10 minutes
+Range: Self
+Components: V, S, M (Onyx dust worth 50 gp, which
+the spell consumes)
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a warhorse, a pony, a camel, an elk, or a mastiff. The steed has the statistics of the chosen form, though it is an incorporeal undead creature instead of its normal type, and gains the Incorporeal Movement trait, although it cannot use it while mounted. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed. When the steed drops to 0 hit points, it disappears, leaving behind no physical form. You can also dismiss your steed at any time as an action, causing it to disappear. In either case, casting this spell again summons the same steed, restored to its hit point maximum.
+While your steed is within 1 mile of you, you can communicate with it telepathically. You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
+
+Thunderous Bellow
+3rd-level evocation
+Casting Time: 1 action
+Range: Self (20-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Sorcerer
+You shout a thunderous phrase that bursts outward from your location. Each creature in a 20-foot cone must make a Constitution saving throw. A creature takes 4d8 thunder damage and is pushed 15 feet away from you on a failed save, or half as much damage and is not pushed on a success.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+
+Vaporous Smite
+3rd-level evocation
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: Concentration, up to 1 minute
+Classes: Paladin
+The next time you hit a creature with a melee weapon attack during this spell’s duration, your weapon flares with a misty white shroud and the attack deals an extra 3d8 radiant damage to the target. Immediately after the attack, your form turns into a gaseous vapor and you are able to travel up to 15 feet without provoking attacks of opportunity. You return to your normal form at the end of your turn.

@@ -1,0 +1,663 @@
+Cantrips:::
+Blood Dagger
+Conjuration cantrip
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: 1 minute
+Classes: Sorcerer, Warlock
+As a bonus action on your turn, you are able to create a weapon from the very life-force that sustains you. Casting this spell causes you to immediately take 1d6 psychic damage, as a small blade that resembles a dagger made of flowing blood appears clutched in your hand.
+   Attacks with this weapon use your spellcasting modifier for attack rolls and deal 1d4 slashing damage. Attacks from this weapon are also considered magical and you cannot be disarmed. You can dismiss the dagger as a bonus action. The spell ends if you recast this spell.
+   The damage dealt by this weapon increases by 1d4 at 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+Blood Siphon
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You point at a target with the tip of your finger and attempt to siphon their life force to strengthen your own. Make a melee spell attack against a target, with a successful attack dealing 1d4 necrotic damage and you gain half the damage dealt as temporary hit points.
+   The spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+Bloodlink
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Sorcerer, Warlock
+You touch two willing creatures and form a brief magical link between them, causing one of the creatures that you select to lose 1d8 hit points. The other creature gains temporary hit points equal to this lost health.
+   This amount increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+Corruption
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a bit of phosphorus)
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You touch the ground beneath your feet to imbue it with a faint necrotic energy. This energy glows with a green dim light in a 10-foot radius. As a bonus action on your turn, you can cause the energy to travel through the ground to a place you can see up to 30 feet away.
+   Any creature other than yourself making an attack while standing on the corrupted ground does so with a -2 attack penalty.
+
+Eidolic Chains
+Conjuration cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Bard, Sorcerer, Warlock, Wizard
+A creature that you can see within range must succeed on a Strength (Athletics) or Dexterity (Acrobatics) skill check (target’s choice) vs your spell DC or become grappled by a set of ethereal chains you summon to bind your target. The target may attempt another skill check with advantage at the start of each of its turns.
+   As a bonus action on your turn, you may move the grappled creature up to 10 feet in any direction you choose, as long as you can see the destination.
+
+Gloom
+Evocation cantrip
+Casting Time: 1 action
+Range: Touch (20-foot sphere)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Warlock, Wizard
+You touch one object that is 5 feet or smaller in any single dimension. Until the spell ends, the object absorbs natural light in a 20-foot radius sphere. Within that sphere, Bright Light becomes Dim Light and Dim Light becomes Dark. The spell ends if you cast it again or dismiss it as an action.
+
+Grim Scythe
+Transmutation cantrip
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S, M (a quarterstaff)
+Duration: 1 minute
+Classes: Sorcerer, Warlock, Wizard
+For the duration, a spectral blade forms on the end of a quarterstaff you touch. While this blade lasts, you use your spellcasting ability instead of Strength for the attack and damage rolls of two-handed melee attacks. The weapon also becomes magical if it isn’t, it deals necrotic damage instead of bludgeoning, and its damage die becomes a d10.
+
+Grimlore’s Influence
+Necromancy cantrip
+Casting Time: 1 bonus action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: Instantaneous
+Source: Sorcerer, Warlock, Wizard
+Any creatures of your choice that are within 30 feet and frightened of you take 1d6 psychic damage.
+   This spell's damage increases by 1d6 and the radius increases by 5 feet when you reach 5th level (2d6, 40 feet), 11th level (3d6, 50 feet), and 17th level (4d6, 60 feet).
+
+Hinder
+Abjuration cantrip
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S
+Duration: Up to 1 round
+Classes: Sorcerer, Warlock, Wizard
+You assault a Medium or smaller creature you can see within range with an invisible force. The creature must succeed on a Strength saving throw or have its movement speed halved until the end of its next turn.
+   At 5th level you can target creature of Large size, at 11th level you can target Huge size, and at 17th level you can target Gargantuan creatures.
+
+Manipulate Shadow
+Illusion cantrip
+Casting Time: 1 action
+Range: 30 feet
+Components: S
+Duration: Concentration, up to 1 hour
+Classes: Bard, Druid, Sorcerer, Warlock, Wizard
+As a bonus action, you are able to manipulate the shadow belonging to a creature of Medium size or smaller that you can see within range. This manipulation can take several forms, such as making it act out simple actions independent from its owner, move up to 30 feet away from its owner, or to alter its shape one size larger or smaller than its owner.
+   You may only manipulate one shadow at a time with this spell. Should the source of the shadow move from its original location, the shadow will follow its owner but remain under your control for up to the duration while within a range of 120 feet.
+
+Night Terror
+Conjuration cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: S, M (a pinch of salt)
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You conjure a Small shadowy figure (10 HP, 14 AC) in an area that you can see within range that remains until it is slain, or the spell ends. As a bonus action on your turn, you can command the shadowy figure to assault the mind of a creature within 30 feet of it. The target must make an Intelligence saving throw or take 1d4 psychic damage.
+   This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+Scourge
+Necromancy cantrip
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You touch a target with the tip of your finger, transferring a dark green energy that flows through your finger and infects the target. Make a melee spell attack against the target. On a hit, the target takes 1d4 necrotic damage and suffers disadvantage on its next Constitution saving throw.
+   This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+
+Shadow Embrace
+Illusion cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You cause shadows to manifest around a creature within range. The target must make a Wisdom saving throw or receive a -2 penalty to their attack rolls and disadvantage on Dexterity saving throws until the end of their next turn as they become engulfed by a dark embrace.
+
+Shadow Ink
+Conjuration cantrip
+Casting Time: 1 action
+Range: Self
+Components: S, M (an empty vial)
+Duration: 1 hour
+Classes: Bard, Sorcerer, Warlock, Wizard
+You pull shadows into a swirling mass inside an empty vial you possess. As long as the vial is open, you are able to use its new contents as 1 ounce of pitch-black ink. If the vial is stoppered, or 1-hour passes, the ink dissipates back into shadow; any writing that has already been made with the ink is unaffected.
+
+Spare the Living
+Necromancy cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You siphon out what little life force a living creature has left. Select a creature that you can see within range that has 0 hit points and force them to immediately make a Death saving throw. This spell has no effect on undead or constructs.
+
+Unholy Flame
+Evocation cantrip
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Warlock
+A purple flame descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 necrotic damage. The target gains no benefit from cover for this saving throw.
+   This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+1st level:::
+Beguile
+1st-level enchantment
+Casting Time: 1 reaction
+Range: 120 feet
+Components: V, S
+Duration: 1 round
+Classes: Bard, Sorcerer, Warlock
+You point at a creature within range and suggest a short phrase of up to 5 words, forcing the target to make a Wisdom saving throw. On a failure, the creature is forced to shout the nearest approximation to the proffered phrase that exists in their native tongue. If the creature fails its saving throw by 5 or more, it can take no other actions during this round.
+
+Bone Storm
+1st-level conjuration
+Casting Time: 1 action
+Range: Self (15-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You conjure shards of bone to shoot forth from your hand in a 15-foot cone in front of you. Creatures in the area must make a Dexterity saving throw or take 5d4 piercing damage.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the size of the cone increases by 5 feet for each spell slot level above 1st.
+
+Creeping Crawling Claw
+1st-level necromancy (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (severed hand of a creature)
+Duration: Concentration, up to 1 hour
+Classes: Warlock, Wizard
+Choose the hand of a creature that has been severed from its body for longer than 24 hours and grant it sentience. For the duration of the spell, the creeping claw (MM pg.44) is under your control and can be commanded using your bonus action. The claw can only understand simple commands.
+   If the hand's original owner is still alive, the claw will seek to reunite itself with its rightful owner when the spell ends. If its original owner is dead, the claw will wander off purposelessly.
+   The claw is under your control for 1 hour, after which it stops obeying. To reassert control for another hour or to assert control over an existing crawling claw, you may cast this spell again.
+
+Cursed with Undeath
+1st-level necromancy
+Casting Time: 1 bonus action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You touch an unconscious living creature that has 0 hit points, placing a curse upon it. The curse remains until the creature either dies or is stabilized, whichever occurs first.
+   If the creature dies while cursed, it is raised as a zombie under your control for 1 minute or until slain. If the creature is stabilized before it dies, the curse is removed with no ill effects.
+   A remove curse spell ends either effect on a creature. This spell has no effect on undead or constructs.
+
+Death's Grasp
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+Grasping spectral hands sprout from the ground in a 10-foot square starting from a point within range. For the duration, these hands turn the ground in the area into difficult terrain.
+   Creatures ending their turn in the area must succeed on a Dexterity saving throw or take 3d6 necrotic damage from the spectral hands.
+
+Dread
+1st-level necromancy
+Casting Time: 1 bonus action
+Range: 60 feet
+Components: V, S, M (petrified eye of a rabbit)
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You speak an augury against a creature that you can see within range, filling them with a sense of trepidation. On a failed Wisdom saving throw, the target suffers disadvantage on all attacks against you. Also, the target has disadvantage on Wisdom skill checks made for the duration.
+   A remove curse spell cast on the target ends this spell early.
+
+Grimlore’s Shadowblight
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You hurl a ball of dark energy at a target within range. Make a ranged spell attack against the target. On a hit, the target takes 2d12 necrotic damage and must make a Wisdom saving throw or become frightened of you until the end of your next turn.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for every two slot levels above 1st.
+
+Inner Fire
+1st-level evocation
+Casting Time: 1 action
+Range: 15 feet
+Components: V, S, M (a small piece of brimstone)
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+The sheer power of your life force causes the blood of your foes to ignite in an inferno. Cause a creature you can see within range to make a Constitution saving throw or take 1d4 fire damage for every unused hit dice you currently have. You lose up to 1d4 of your remaining hit dice, consumed by the spell.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for every four slot levels above 1st.
+
+Misery
+1st-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 round
+Classes: Bard, Cleric, Warlock, Wizard
+You extend your hand and touch a creature while muttering a curse under your breath; one that dwells in a plane of anguish. The creature can make an Intelligence saving throw to understand the effects of your incantation: they have until the start of your next turn to move 60 feet or more from your location. Upon failing to move this distance or choosing not to move, the target must immediately make a Constitution saving throw or become vulnerable to 2 damage types of your choosing for the duration. Creatures resistant or immune to a specified damage type cannot be made vulnerable to that damage type with this spell. A remove curse spell ends this effect.
+
+Rot
+1st-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You extend your hand toward a creature you can see within range and infect the target with a horrible disease, causing their flesh to form pustules and smell of decay. The creature must succeed on a Constitution saving throw or take 2d12 necrotic damage, or half on a success.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for each slot level above 1st.
+
+Smolder
+1st-level transmutation
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You focus on fanning the flames that burn within your soul. Using your bonus action, you are able to add an additional 1d8 fire damage to the next source of fire damage you deal.
+   At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for every slot level above 1st.
+
+2nd level:::
+Detect Familiar
+2nd-level divination (ritual)
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+For the duration, you sense the presence of any creature that is currently serving as a familiar within 30 feet of you. If you sense a familiar in this way, you can use your action to see a faint aura around the creature. In addition, you are able to sense if its master is within 1 mile of your location and know their general direction.
+   The spell can penetrate most barriers, but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Drain Life
+2nd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You can weaken one foe by lowering its maximum hit points. Choose one creature that you can see within range to make a Constitution saving throw. If it fails, 2d8 + your spell casting modifier worth of hit points are subtracted from its maximum until it completes a long rest. If this effect reduces the target’s total hit points to zero, it dies.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+
+Grimlore’s Shadowgrasp
+2nd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You create a medium-sized hand made of shadow in an unoccupied space that you can see. It moves at your command, mimicking the movements of your own hand.
+   The hand is an object that has AC 14, hit points equal to half your hit point maximum and a movement speed of 40 feet. If it drops to 0 hit points, the spell ends. The hand doesn't fill its space and remains under the effects of the blur spell while active.
+   When you cast the spell, and as a bonus action on your turns, you can make a ranged spell attack against a creature within 5 feet of the hand, dealing 1d12 of necrotic damage. On a successful attack, the target must also make a Wisdom saving throw or be frightened of you. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to being frightened by this spell for the next 24 hours.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage dealt by the hand increases by 1d6 for every slot level above 2nd.
+
+Manacle of Burden
+2nd-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock, Wizard
+You target two creatures that are within 20 feet of each other within range and cause them to make a Strength saving throw with disadvantage. If both targets fail, they are bound to one another by a spectral manacle of your creation and will split all damage done to them.
+   For the duration, any damage done to either target is halved (rounded down) and then dealt to the other bound creature as well.
+   If the two bound creatures move more than 20 feet apart, the manacle breaks causing 4d6 necrotic damage to each target.
+
+Necrotic Visage
+2nd-level necromancy
+Casting Time: 1 bonus action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You evoke a shadowy visage that appears above you. The visage remains until you use your action to make a melee spell attack with your equipped weapon. On a successful attack, your attack is replaced by that of the shadowy visage, who attacks your target with a necrotic scythe, dealing 4d6 necrotic damage and then disappears.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for every two slot levels above 2nd.
+
+Shadow Bind
+2nd-level illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Sorcerer, Warlock, Wizard
+You take control of the shadow belonging to a creature to restrain its master. Make a ranged spell attack against a creature that you can see within range, dealing 2d6 necrotic damage and grappling the target. The grappled creature can use an action to make a strength or dexterity check (creature's choice) against your spellcasting DC, ending the spell if successful. You are not able to control a target’s shadow when either are in bright light.
+   At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d6 for each slot level above 2nd.
+
+3rd level:::
+Fire Whip
+3rd-level evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Sorcerer, Warlock, Wizard
+You create a whip made of scorching flame and select one creature within range, with the intention of unbalancing it. The target must make a Dexterity saving throw. On a failed save, the target takes 5d8 fire damage and you choose to knock it prone or to pull it up to 30 feet closer to your location.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 and you can pull the target an additional 5 feet for each slot level above 3rd.
+
+Grimlore’s Affliction
+3rd-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Sorcerer, Warlock, Wizard
+You harness necrotic energies and infuse them into your very being. For the next 10 minutes, every time you deal damage with an attack or spell attack to a creature, you deal an additional 1d12 necrotic damage and the creature must make a Wisdom saving throw or become frightened of you until the end of its next turn.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for every two slot levels above 3rd.
+
+Lunacy
+3rd-level enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Bard, Warlock, Wizard
+You target a creature that you can see within range and pick at the fragile fabric that allows them to maintain their sanity. The creature must make a Wisdom saving throw or roll on the Short-Term Madness Table (DMG, pg.258) and remain under the effect for 1d10 minutes.
+
+Mummify
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (A piece of cloth)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+You touch a creature and utter an ancient curse. The target must make a Strength saving throw or take 2d8 necrotic damage and become restrained as spectral wrappings begin to tighten around their body. Until the spell ends, as a bonus action on each of your turns after this one, you can cause the target to take an additional 2d8 necrotic damage every round after the spell was initially cast.
+   The target can attempt a Strength saving throw at the beginning of their turns to break the binding, ending the spell.
+   A creature that dies while under the effect of this spell becomes cursed. 24 hours after the creature’s death, it rises as a mummy that is hostile towards the party. A remove curse spell ends this effect on the target is cast before it is animated as a mummy but has no effect if cast on a mummy created as the result of this spell.
+
+Poisoned Heart
+3rd-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Warlock
+You touch a creature, causing its heart to fill with a vile poison. The creature must make a Constitution saving throw or take 2d10 poison damage. At the end of each of the target’s turns before the spell ends, the target must succeed on a Constitution saving throw or take an additional 2d10 poison damage.
+   At any point during the spell, if the target dies as a result of the poison damage from this spell, every creature within 5 feet of the target must make a Constitution saving throw or take 4d10 poison damage, or half as much on a success as the target’s heart explodes.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, all damage dealt from spell increases by 1d10 for every slot level above 3rd.
+
+Sphere of Deceit
+3rd-level illusion
+Casting Time: 1 action
+Range: 30 feet
+Components: V
+Duration: 10 minutes
+Classes: Bard, Warlock
+You create a magical zone that enables deception in a 15-foot-radius sphere on a point of your choice within range. Until the spell ends, any creatures of your choosing that enter the spell's area gain advantage on all Deception skill checks. Additionally, any creatures in the spell’s area that you do not grant this bonus must make a Wisdom saving throw or suffer disadvantage on all Wisdom (Insight) checks made while in the area. When the spell ends, they know that they were deceived in this manner.
+   At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the radius of the sphere is increased by 10 feet for every slot level above 3rd.
+
+4th level:::
+﻿Army of the Dead
+4th-level necromancy
+Casting Time: 1 action
+Range: 45 feet
+Components: V, S, M (a handful of bone dust)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Warlock, Wizard
+This spell creates 2d4 undead servant skeletons. Choose piles of humanoid bones within range. Your spell imbues the targets with a foul mimicry of life, raising them as undead skeletons (the DM has the creature's game statistics). The skeletons act immediately after your turn on the initiative order.
+   On each of your turns, you can use a bonus action to mentally command any creatures you made with this spell if the creature is within 60 feet of you (issuing the same command to each one). You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creatures only defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
+   The creatures are under your control for 1 minute, after which point the spell ends and they collapse to the ground, lifeless.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, you are able to add an addition 1d4 to the total number of skeletons raised by this spell for every slot higher than 4th level.
+
+Grimlore’s Withering Coils
+4th-level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You create three spectral coils gleaming with green necrotic energy. Make a ranged spell attack against up to three separate targets within range, one for each coil. Each successful attack deals 3d12 necrotic damage and the target must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. If the target makes a successful saving throw, it cannot be frightened by this spell for 24 hours.
+   At Higher Levels: When you cast this spell using a spell slot of 5th level or higher, the damage of each coil increases by 1d12 for every two slot levels above 4th.
+
+Hallowing Curse
+4th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Bard, Cleric, Warlock, Wizard
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, an ill omen is placed on the target, causing disadvantage on Strength and Constitution ability checks and saving throws for the duration. While cursed, the target gains 5d10 worth of negative temporary hit points. These negative temporary hit points must be healed through before a target’s normal hit points can be healed. While cursed, the target must make a Wisdom saving throw at the start of each of its turns. If it fails, it wastes its action that turn doing nothing. A remove curse spell ends this effect.
+   At Higher Levels: If you cast this spell using a spell slot of 5th level or higher, the Duration is 8 hours. If you use a spell slot of 7th level or higher, the Duration is 24 hours. If you use a 9th level spell slot, the spell lasts until it is dispelled. Using a spell slot of 5th level or higher grants a Duration that doesn't require Concentration.
+
+Hemorrhage
+4th-level transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Druid, Ranger, Sorcerer, Warlock
+You cause a target’s previously healed battle scars to rupture as blood begins exit from these opened wounds. Select a creature within range to make a Constitution saving throw, taking 2d8 slashing damage on a failed save. Additionally, roll a d8 for every two hit dice belonging to the creature. If this number is higher than the target's total hit points at the end of its next turn, it falls to 0 hit points. Temporary hit points do not count towards this total. If the target saves on the initial save, this spell has no effect.
+
+Plague
+4th-level necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Warlock, Wizard
+You point at a creature within range, causing a dark green glow to pass over their body. The creature must make a Constitution saving throw or take 4d10 poison damage and become diseased; suffering disadvantage on all attack and skill checks for the duration as their skin begins to pustules all over their body.
+   If the disease is not removed within 1 hour, the creature must make another Constitution saving throw or die. If a creature dies as the result of this spell, every creature within 10 feet must make a Constitution saving throw or become affected by this spell, as if it was initially cast on them. Constructs and undead are immune to the spell.
+
+5th level:::
+﻿Armor of Bones
+5th-level conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a pinch of bone dust)
+Duration: Concentration, up to 1 minute
+Classes: Cleric, Druid, Warlock, Wizard
+You encase the armor of a willing creature that you can see within range in solid bone. While not impervious to degradation, this bone armor will grant the target a +3 bonus to AC for the duration.
+   Additionally, every time a creature within 5 feet lands a successful attack against the target, the attacker takes 3d6 piercing damage as bone shrapnel chips off and flies at the assailant.
+
+Defile
+5th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Druid, Sorcerer, Warlock, Wizard
+A wave of noxious energy flows out from your hands over the land, infecting everything in its path. Each creature you choose within a 30-foot cone must make a Constitution saving throw. The targets take 4d10 poison damage and become poisoned for 1 minute on a failed save, or half as much damage and are not poisoned on a successful one. Undead and Constructs automatically succeed on the save.
+
+Grimlore’s Touch of Undeath
+5th-level necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You touch a creature, causing it to make a Constitution saving throw. For the duration, the target becomes incapacitated on a failed saving throw or frightened of you on a success. The target can make a Constitution save at the end of its turns, removing the incapacitated effect, but becoming frightened for the remaining duration on a success. A remove curse spell ends this spell.
+   Additionally, while incapacitated in this manner, the target begins to give off a toxic odor. Any creature that is within 5 feet of the target at the start of its turn must succeed on a Constitution saving throw or be poisoned until the end of its next turn.
+   At Higher Levels: If you cast this spell using a spell slot of 6th level or higher, the duration is 8 hours. If you use a spell slot of 7th level or higher, the duration is 24 hours. If you use an 8th level spell slot, the spell lasts until dispelled. Using a spell slot of 6th level or higher grants a duration that doesn't require Concentration.
+
+Hellfire
+5th-level evocation
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a piece of coal)
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+A fiery coal ignites in the palm of your hand. A creature that you can see within range must make a Dexterity saving throw, as the coal flies towards the target. On a failed save, the target takes 6d8 fire damage initially and then 2d8 fire damage at the start of each of their turns for the duration. The target takes half as much initial damage and no subsequent damage on a successful save.
+   At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, all damage instances increase by 1d8 for each slot level above 5th.
+
+Midnight
+5th-level evocation
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Bat fur and a drop of pitch or piece of coal)
+Duration: Up to 1 hour
+Classes: Sorcerer, Warlock, Wizard
+Magical darkness spreads from a point you choose within range to fill a 60-foot-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can’t see through this darkness, and nonmagical light can’t illuminate it. If the point you choose is on an object you are holding or one that isn’t being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+   If any of this spell’s area overlaps with an area of light created by a spell of 5th level or lower, the spell that created the light is dispelled.
+
+Ruin
+5th-level evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Druid, Sorcerer, Warlock, Wizard
+You create a maelstrom of fire and brimstone in a 20- foot-radius sphere at a point you can see within range. When a creature enters the area for the first time on a turn or starts its turn there, it must make a Constitution saving throw. On a failed save, the creature takes 5d8 fire damage or half as much on a success. Constructs and structures automatically fail the save and the spell deals maximum damage.
+   At Higher Levels: When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th.
+
+Vehement Inquiry
+5th-level enchantment (ritual)
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a drop of the target’s blood)
+Duration: Up to 1 hour
+Classes: Bard, Paladin, Warlock
+You can force a creature to answer your questions in a truthful manner. Upon casting this spell, you immediately lose 1d8 of your remaining hit dice as a sacrifice. You must have at least eight hit dice to cast this spell. You touch a target for which you have a sample of their blood and cause them to make a Wisdom saving throw at disadvantage. If the target fails, they must answer up to 2d4 of your questions. The target must respond, must speak the truth and cannot provide an answer that is misleading in any way.
+
+6th level:::
+Apocalypse
+6th-level evocation
+Casting Time: 1 action
+Range: Self (30-foot radius)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You cause demonic symbols to appear beneath the feet of every creature you choose within range. Each creature must make a Dexterity saving throw or take 3d8 fire damage and become stunned until the end of their next turn. The creatures take half damage and are not stunned on a successful save. Creatures gain no benefit from cover for this save.
+   At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d8 for each slot level above 6th.
+
+Bound into Obedience
+6th-level enchantment
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (Black sapphire dust worth 100 gp, which the spell consumes)
+Duration: 10 days
+Classes: Bard, Sorcerer, Warlock, Wizard
+You touch a creature that is unconscious and cause ethereal chains to bind the creature’s hands. If the target regains consciousness, it must succeed on a Wisdom saving throw at disadvantage or become charmed by you for the duration. While bound into your servitude in this manner, the target must obey your verbal commands to the best of its ability as your servant. The target will not willingly hurt itself. If you command the target to perform an action strongly opposed by its core values, or you or your companions take an action harmful to it, your DM might allow the creature to make another Wisdom saving throw to break its shackles and end this effect.
+   When the spell ends, the creature is no longer bound to you as a servant and has full knowledge of the tasks you made it perform. A Remove Curse, Greater Restoration, or Wish spell also ends it.
+
+Borrowed Time
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Instantaneous
+Classes: Bard, Cleric, Sorcerer, Warlock, Wizard
+You open a rift and are able to reach through to borrow idle time from your future self. Once per round for 1d6+4 rounds, you may take an additional action or bonus action at the end of another creature's turn. Acting in this manner consumes your reaction. Once the spell ends, you are incapacitated for a number of rounds equal to the initial roll of 1d6.
+
+Grimlore’s Aphotic Armor
+6th-level necromancy
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 1 hour
+Classes: Sorcerer, Warlock, Wizard
+You pull forth shadows that reside in the deepest corners of the realm to shroud yourself. Upon casting this spell, you gain 3d12 + 12 temporary hit points. While you have these hit points, you receive half cover from melee attacks and spells and if you take damage from any source, your attacker must make a Wisdom saving throw or become frightened of you for 1 minute.
+
+Investiture of Necrosis
+6th-level transmutation
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Concentration, up to 10 minutes
+Classes: Warlock, Wizard
+Necrotic energies race across your body, shedding dim light in a 60-foot radius for the spell's duration. The necrosis doesn't harm you. Until the spell ends, you gain the following benefits:
+   • You are immune to necrotic damage and resistant to poison damage.
+   • Any creature that moves within 5 feet of you for the first time on a turn or ends its turn there takes 1d10 necrotic damage.
+   • You can use your action to create a line of necrotic energy 15 feet long and 5 feet wide extending from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes 4d8 necrotic damage on a failed save, or half as much damage on a successful one.
+
+Myrkul’s Power
+6th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Cleric, Warlock, Wizard
+You hold your hands with fingers spread, drawing forth life force into your outstretched fingertips. Each creature in a 30-foot cone must make a Constitution saving throw. A creature takes 5d6 necrotic damage on a failed save, or half as much damage on a successful one. You regain hit points equal to half of the total damage dealt.
+   At Higher Levels: When you cast this spell using a spell slot of 7th level or higher, the damage increases by 1d6 for each slot level above 6th.
+
+Soultap
+6th-level necromancy
+Casting Time: 1 bonus action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You embrace the life force that flows inside all living beings within range. As bonus action, you can take 1d6 necrotic damage from every creature that you choose within range. When you make your next spell attack, you can add this amount of damage to your attack.
+
+7th level:::
+Conjure Wyrmling
+7th-level conjuration (ritual)
+Casting Time: 1 minute
+Range: 90 feet
+Components: V, S, M (a dragon scale and a jewel worth 10,000gp, both of which the spell consumes)
+Duration: Up to 8 hours
+Classes: Sorcerer, Warlock, Wizard
+You summon a dragon wyrmling of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The color of dragon scale used in the casting determines the type of wyrmling summoned. The wyrmling disappears when it drops to 0 hit points or when the spell ends. The wyrmling is friendly to you and your companions for the duration. Roll initiative for the wyrmling, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment. If you don’t issue any commands to the wyrmling, it defends itself from hostile creatures but otherwise takes no actions. The DM has the wyrmling's statistics. You can only have one wyrmling conjured at a time with this spell. Any additional castings of the spell within the duration will cause the prior wyrmling to cease existing or to extend the duration, depending on the scale used.
+   At Higher Levels: When you cast this spell using an 8th-level spell slot, the duration is up to 24 hours. When using a 9th-level spell slot, the duration is a year and a day.
+
+Grimlore’s Doom
+7th-level necromancy
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You spit an oath at a creature within range, who must succeed on a Wisdom saving throw or take 5d12 necrotic damage. On a successful save, the creature takes half of the damage and is frightened of you until the end of your next turn. On a failed save, the creature is frightened of you, and is incapacitated.
+   The creature also takes 2d12 necrotic damage at the end of each of its turns, after which it may make the saving throw again. On a success, the spell ends.
+
+Vampiric Aura
+7th-level necromancy
+Casting Time: 1 bonus action
+Range: Self (30-foot-radius)
+Components: V, S
+Duration: Up to 10 minutes
+Classes: Warlock, Wizard
+A necrotic aura emanates from you, leeching the life out of your foes. For the duration, when you or any allies within 30 feet of you damage an enemy, they gain half of the damage done as temporary hit points.
+   At Higher Levels: When you cast this spell using a spell slot of 8th level or higher, the you can extend the radius by 10 feet for each slot level above 7th.
+
+8th level:::
+﻿Alluvial Pool
+8th-level conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a vial of ooze)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Sorcerer, Warlock, Wizard
+Thick ooze fills an area of the ground you choose within range. The area by default is a 50-foot square, but its dimensions may be whatever you wish, provided it is one continuous pool and the total surface area does not exceed 2500 square feet. The resulting pool has a depth of 10 feet and is difficult terrain. The area looks like a shallow pool of water at first glance, and any creature that was not aware of the spell being cast must make an Intelligence (Investigation) or Wisdom (Perception) check against your spell DC to believe otherwise before contact is made with the pool.
+   A creature entering the pool for the first time on a turn or starting its turn there must make a Dexterity saving throw, taking 4d6 acid damage on a failed save and sinking into the pool, as the grappled condition. On a successful save, the creature takes half as much acid damage and is not grappled. A grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check (its choice) against your spell save DC. On a success, it frees itself. A creature of size Large or smaller that fails the saving throw while already grappled by the pool is also restrained against your spell save DC.
+   A restrained creature can't breathe, and any nonmagical metal objects it carries begin to corrode. When the restrained creature takes acid damage from the pool, non-magical metal weapons and armor take a permanent, cumulative -1 penalty to their damage rolls and AC, respectively. If this penalty on a weapon reaches -5, the weapon is destroyed; similarly, armor is destroyed if its AC is reduced to 10. Other metal objects take cumulative damage as well, as the pool eats through a 1-inchthickness of non-magical metal each round it is immersed.
+
+Chalice of the Night
+8th-level necromancy
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (1 ounce of vampire’s blood, which the spell consumes, and a chalice worth 2,500gp)
+Duration: Up to 24 hours
+Classes: Warlock, Wizard
+You assume the form of a vampire until the next dawn, or the spell’s duration, whichever happens first. You transform into an average vampire, one without any class levels or the Spellcasting trait.
+   Your game statistics are replaced by the statistics of a vampire, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of a vampire. If the vampire has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the vampire’s bonus in place of yours. You can’t use any legendary actions or lair actions of the new form. As a vampire, you do not age.
+   You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+   You retain the benefit of any features from your class, race, or other source and can use them, provided that your vampiric form is physically capable of doing so. You can speak all of the languages you knew before the transformation.
+   When you transform, you choose whether your equipment falls to the ground or is worn by your new form. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the vampire’s shape and size compared to those of your original form. Your equipment doesn’t change shape or size to match the new form, and any equipment that the new form can’t wear must fall to the ground. During this spell’s duration, you cannot end the spell prematurely.
+
+Grimlore’s Crippling Incursion
+8th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You point an outstretched hand with fingers spread and emanate a blanket of necrotic energy from your fingertips. Each creature that you choose in a 30-foot cone must make a Constitution saving throw. A creature takes 5d12 necrotic damage and suffers 2 levels of exhaustion on a failed save, as their bones become frail and strength leaves their body. On a successful save, they take half as much damage and do not become exhausted but become frightened of you until the end of their next turn.
+
+9th level:::
+Grimlore’s Calamity
+9th-level necromancy
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Classes: Sorcerer, Warlock, Wizard
+You create a shadowy pool on a flat surface that you can see within range. The pool is 25 feet in diameter and connects your plane to the Shadowfell. A medium-sized spectral hand rises from the center of the pool and remains there for the duration of the spell.
+   When a creature enters the pool for the first time on a turn or starts its turn there, the creature must succeed on a Constitution saving throw or takes 8d12 necrotic damage and becomes restrained. It takes half damage and is not restrained on a success. Any creature that begins their turn restrained while in the pool sinks to its bottom and is immediately teleported to the Plane of Shadow, becoming trapped there.
+   Additionally, as a bonus action on each of your turns, you may command the spectral hand to beckon a creature within 60 feet. The target must make a Wisdom saving throw. If the creature fails its saving throw, it is charmed for 1 minute or until it takes any damage. A charmed creature must spend its turns trying to move as close to the spectral hand as it can. It also can't take reactions. For its action, it can use only the Dash action.
+

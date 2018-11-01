@@ -1,0 +1,66 @@
+﻿Alluvial Pool
+8th-level conjuration
+Casting Time: 1 action
+Range: 90 feet
+Components: V, S, M (a vial of ooze)
+Duration: Concentration, up to 1 hour
+Classes: Druid, Sorcerer, Warlock, Wizard
+Thick ooze fills an area of the ground you choose within range. The area by default is a 50-foot square, but its dimensions may be whatever you wish, provided it is one continuous pool and the total surface area does not exceed 2500 square feet. The resulting pool has a depth of 10 feet and is difficult terrain. The area looks like a shallow pool of water at first glance, and any creature that was not aware of the spell being cast must make an Intelligence (Investigation) or Wisdom (Perception) check against your spell DC to believe otherwise before contact is made with the pool.
+A creature entering the pool for the first time on a turn or starting its turn there must make a Dexterity saving throw, taking 4d6 acid damage on a failed save and sinking into the pool, as the grappled condition. On a successful save, the creature takes half as much acid damage and is not grappled. A grappled creature can use its action to make a Strength (Athletics) or Dexterity (Acrobatics) check (its choice) against your spell save DC. On a success, it frees itself. A creature of size Large or smaller that fails the saving throw while already grappled by the pool is also restrained against your spell save DC.
+A restrained creature can't breathe, and any nonmagical metal objects it carries begin to corrode. When the restrained creature takes acid damage from the pool, non-magical metal weapons and armor take a permanent, cumulative -1 penalty to their damage rolls and AC, respectively. If this penalty on a weapon reaches -5, the weapon is destroyed; similarly, armor is destroyed if its AC is reduced to 10. Other metal objects take cumulative damage as well, as the pool eats through a 1-inchthickness of non-magical metal each round it is immersed.
+
+Armor of Irritants
+8th-level conjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S
+Duration: Up to 24 hours
+Classes: Druid
+One hundred tiny insects cover your body and grant you 100 temporary hit points. Also, you are immune to poisons and diseases for the duration. You gain additional effects depending on how many temporary hit points are remaining:
+• 75 or more. You have three-quarters cover.
+• 45 or more. You have half cover.
+Additionally, once per round, if a single source of damage would remove more than 50 temporary hit points, you can use your reaction to impose disadvantage on the next attack against you. The spell lasts for the duration or when the temporary hit points are depleted, whichever happens first.
+
+Chalice of the Night
+8th-level necromancy
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (1 ounce of vampire’s blood, which the spell consumes, and a chalice worth 2,500gp)
+Duration: Up to 24 hours
+Classes: Warlock, Wizard
+You assume the form of a vampire until the next dawn, or the spell’s duration, whichever happens first. You transform into an average vampire, one without any class levels or the Spellcasting trait.
+Your game statistics are replaced by the statistics of a vampire, though you retain your alignment and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of a vampire. If the vampire has the same proficiency as you and the bonus listed in its statistics is higher than yours, use the vampire’s bonus in place of yours. You can’t use any legendary actions or lair actions of the new form. As a vampire, you do not age.
+You assume the hit points and Hit Dice of the new form. When you revert to your normal form, you return to the number of hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
+You retain the benefit of any features from your class, race, or other source and can use them, provided that your vampiric form is physically capable of doing so. You can speak all of the languages you knew before the transformation.
+When you transform, you choose whether your equipment falls to the ground or is worn by your new form. Worn equipment functions as normal. The DM determines whether it is practical for the new form to wear a piece of equipment, based on the vampire’s shape and size compared to those of your original form. Your equipment doesn’t change shape or size to match the new form, and any equipment that the new form can’t wear must fall to the ground. During this spell’s duration, you cannot end the spell prematurely.
+
+Grimlore’s Crippling Incursion
+8th-level necromancy
+Casting Time: 1 action
+Range: Self (30-foot cone)
+Components: V, S
+Duration: Instantaneous
+Classes: Sorcerer, Warlock, Wizard
+You point an outstretched hand with fingers spread and emanate a blanket of necrotic energy from your fingertips. Each creature that you choose in a 30-foot cone must make a Constitution saving throw. A creature takes 5d12 necrotic damage and suffers 2 levels of exhaustion on a failed save, as their bones become frail and strength leaves their body. On a successful save, they take half as much damage and do not become exhausted but become frightened of you until the end of their next turn.
+
+Levitate Landscape
+8th-level transmutation
+Casting Time: 8 hours
+Range: Touch
+Components: V, S, M (a blue sapphire worth at least
+30,000 gp, which the spell consumes)
+Duration: Instantaneous
+Classes: Wizard
+You bury a gemstone 1 foot below the surface and begin to enchant the surrounding area with magical energies native to the Elemental Plane of Air. After a strenuous casting recital consisting of 8 hours of uninterrupted devotion, the landscape begins to tear away from its surroundings up to a 250-footradius sphere in any direction from the gemstone, forming an island.
+Once the spell has been completed, the island begins to lift into the air at a rate of 100 feet per 1 hour. You are able to use your action to stop the island from elevating at any point up to 1 mile above the surface. Once stopped, you are able to move the island by spending 1 hour in an uninterrupted recitation. Doing so will allow you to move the island in any direction at a rate of 20 feet per 1 hour. You may stop the island from moving at any time using your action. The buried gemstone can never be higher than 1 mile above the surrounding ground’s surface. Removing the gemstone from the place it was buried requires a successful arcana and athletic check, each contested by your spell save DC. A success ends the spell, causing the island to fall back towards the surface at a rate of 192 feet per round.
+You may only have one instance of this spell active at a time. Casting the spell again will cause the other casting of this spell to lose its magical properties and the spell will end.
+At Higher Levels: When you cast this spell using a spell slot of 9th level, you may have multiple instances of this spell active at a time, and casting the spell again no longer causes previous castings of this spell to end. When you complete the 1-hour recitation to move a Levitated Landscape, you instead move all Levitated Landscapes that you control.
+
+Scornful Mantle of the Undaunted
+8th-level abjuration
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (a ruby worth 1,000 gp)
+Duration: Up to 1 minute
+Classes: Bard, Cleric
+You touch a willing creature and strengthen its resolve, allowing it to become dauntless in the face of untold danger. For the duration, the target becomes immune to all condition effects. If the target is currently affected with any condition other than unconscious or exhaustion, casting this spell will remove those conditions from the target. Additionally, if a single source of damage would kill the target, the target health is set to 1 hit point instead, and the spell ends.
