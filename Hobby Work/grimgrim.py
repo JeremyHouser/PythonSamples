@@ -1,31 +1,30 @@
 """this commented section needs reworking after update to document formatting"""
 
 # these are parts of an automation task I was completing for a personal hobby
-# it doesn't represent a complete, encapsulated project, just the parts I thought
-# warranted automation
+# it doesn't represent a complete, encapsulated project, just the parts I thought warranted automation
 
-# import PyPDF2
-# import in_place
 import json
 import ftfy # this is a godsend for fixing garbage mojibakes
 
-# def pdfRip(): # turns pdf into txt
-#     pdfFileObj = open('grimsgrimoire.pdf', 'rb') 
-#     creating a pdf reader object 
-#     pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
+# import PyPDF2
+# import in_place
 
-#     # extracting text from pdf doc 
-#     for num in pdfReader.numPages:
-#         case  
-#         page = pdfReader.getpage(num)
-#         line = pageObj.extractText().replace("\n \n", "")
-#         line = line.replace(" \n", "")
-#         temp = "level0spells.txt"
-#         f = open(temp)
+# ##defunct, doesn't rip all text, need better solution (ended up copy/paste from document, couldn't find
+# ##better pdf dumping module that retrieved all text, but might revisit this later)
+# pdfFileObj = open('grimgrim.pdf', 'rb') 
+# # creating a pdf reader object 
+# pdfReader = PyPDF2.PdfFileReader(pdfFileObj) 
+
+# # extracting text from pdf doc
+# f = open('allspells.txt', 'a')
+# num = 6 # pg 6 is beginning of spells in this document
+# while num < 57: # pg 56 is end of spells in this document
+#     page = pdfReader.getPage(num)
+#     line = page.extractText()
 #     f.write(line)
-#     f.close()
-
-# closing the pdf file object 
+#     num += 1
+#     break
+# f.close()
 # pdfFileObj.close()
 
 # at this point I edit in terms like "Definition" and "Name" using a mass text editor, as well after this part
@@ -33,6 +32,8 @@ import ftfy # this is a godsend for fixing garbage mojibakes
 # bother coding) using visual studio code. Multiline editing is convenient and there is zero net sum advantage
 # in designing what I could do smarter, better, and faster by hand with pre-existing software
 
+## I think this method worked as intended? Honestly don't remember, writing this program was a fever dream. 
+## But the end product was nice!
 # def killNewLines():
 #     switch = False
 #     spellLevel = 0
@@ -221,4 +222,4 @@ def jsonifySpells(spName, spLev, spCast, spRange, spComp, spDur, spClass, spDef)
 classDocCreate()
 
 ### basically, the product created from this is the final product, minus formatting
-### and writing into .rtfs done with spire.doc using C#
+### and writing into .rtfs, which was done with spire.doc using C#
